@@ -1,11 +1,11 @@
 const  NonMass=[
-    {
-        id:1,
-        title:"Фрізі ківі 450мл",
-        price:"105 грн",
-        src: require('../img/kivi.png'),
-        text:"сироп ківі, м’ята, лайм, тонік",
-    },
+    // {
+    //     id:1,
+    //     title:"Фрізі ківі 450мл",
+    //     price:"105 грн",
+    //     src: require('../img/kivi.png'),
+    //     text:"сироп ківі, м’ята, лайм, тонік",
+    // },
     {
         id:2,
         title:"Блакитна Лагуна 350мл",
@@ -34,13 +34,13 @@ const  NonMass=[
         src: require('../img/dol.png'),
         text:"сироп кокосовий, сироп персиковий, сік ананасовий, вершки",
     },
-    {
-        id:6,
-        title:"Мілк шейк 350мл",
-        price:"89 грн",
-        src: require('../img/shak.png'),
-        text:"в асортименті",
-    },
+    // {
+    //     id:6,
+    //     title:"Мілк шейк 350мл",
+    //     price:"89 грн",
+    //     src: require('../img/shak.png'),
+    //     text:"в асортименті",
+    // },
 ]
 
 export default NonMass;

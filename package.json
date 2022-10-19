@@ -1,8 +1,8 @@
 {
-  "name": "orange-bar",
+  "name": "orange-club",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AlekseyDemydov.github.io/orange-bar/",
+  "homepage": "https://OrangeFamily.github.io/orange-club/",
   "dependencies": {
     "@chakra-ui/react": "^2.3.5",
     "@testing-library/jest-dom": "^5.16.3",

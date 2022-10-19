@@ -13,7 +13,7 @@ import s from './App.module.scss';
 import { List } from './comp/List/List';
 
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
-import BurgerMass from './comp/Kitchen/Data/DataBurg';
+// import BurgerMass from './comp/Kitchen/Data/DataBurg';
 import AssortiMass from './comp/Kitchen/Data/DataAssorti';
 import SaladsMass from './comp/Kitchen/Data/DataSalads';
 import HotMass from './comp/Kitchen/Data/DataHot';
@@ -32,8 +32,8 @@ import ShampanMass from './comp/Bar/Data/DataShampan';
 import VineMass from './comp/Bar/Data/DataVine';
 import VermutMass from './comp/Bar/Data/DataVermut';
 import BearMass from './comp/Bar/Data/DataBear';
-import CoffeMass from './comp/Bar/Data/DataCoffe';
-import TeaMass from './comp/Bar/Data/DataTea';
+// import CoffeMass from './comp/Bar/Data/DataCoffe';
+// import TeaMass from './comp/Bar/Data/DataTea';
 import DrinkMass from './comp/Bar/Data/DataDrink';
 import EnergyMass from './comp/Bar/Data/DataEnergy';
 import AddMass from './comp/Bar/Data/DataAdd';
@@ -63,7 +63,7 @@ export const App = () => {
   const [objectModal, setObjectModal] = useState({});
 
   // const dataFrut = FrutMass;
-  const dataBurgers = BurgerMass;
+  // const dataBurgers = BurgerMass;
   const dataAssorti = AssortiMass
   const dataSalads = SaladsMass;
   const dataHot = HotMass;
@@ -90,8 +90,8 @@ export const App = () => {
   const dataVine = VineMass;
   const dataVermut = VermutMass;
   const dataBear = BearMass;
-  const dataCoffe = CoffeMass;
-  const dataTea = TeaMass;
+  // const dataCoffe = CoffeMass;
+  // const dataTea = TeaMass;
   const dataDrink = DrinkMass;
   const dataEnergy = EnergyMass;
   const dataAdd = AddMass;
@@ -444,7 +444,7 @@ export const App = () => {
                         <List data={dataDrink} onModal={dataModal} />
                       </AccordionPanel>
                     </AccordionItem>
-                    <AccordionItem>
+                    {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           Кава
@@ -463,7 +463,7 @@ export const App = () => {
                       <AccordionPanel>
                         <List data={dataTea} onModal={dataModal} />
                       </AccordionPanel>
-                    </AccordionItem>
+                    </AccordionItem> */}
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
