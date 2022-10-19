@@ -212,7 +212,7 @@ export const App = () => {
                       <List data={dataMain} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
-                  <AccordionItem>
+                  {/* <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
                         Бургери
@@ -221,7 +221,7 @@ export const App = () => {
                     <AccordionPanel>
                       <List data={dataBurgers} onModal={dataModal} />
                     </AccordionPanel>
-                  </AccordionItem>
+                  </AccordionItem> */}
                   <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
