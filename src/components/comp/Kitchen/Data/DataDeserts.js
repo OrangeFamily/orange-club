@@ -2,8 +2,8 @@ const DesertsMass=[
     {
         id:1,
         title:"торт шоколадно-помаранчевий 100г",
-        price:"79 грн",
-        src: require('../img/icee.png'),
+        price:"89 грн",
+        src: require('../img/tort.png'),
         text:"",
     },
     {
