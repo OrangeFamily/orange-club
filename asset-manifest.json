@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-club/static/css/main.6a1b3bce.css",
-    "main.js": "/orange-club/static/js/main.2b25fc21.js",
+    "main.js": "/orange-club/static/js/main.951bbf4d.js",
     "static/media/fon1.jpg": "/orange-club/static/media/fon1.fecba46590088500bb50.jpg",
     "static/media/steykpig.png": "/orange-club/static/media/steykpig.d8c4fe74cd97bcf14931.png",
     "static/media/steykkur.png": "/orange-club/static/media/steykkur.1cac9d49fc459dc04d26.png",
@@ -167,10 +167,10 @@
     "static/media/neuropol-mwdium.ttf": "/orange-club/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/orange-club/index.html",
     "main.6a1b3bce.css.map": "/orange-club/static/css/main.6a1b3bce.css.map",
-    "main.2b25fc21.js.map": "/orange-club/static/js/main.2b25fc21.js.map"
+    "main.951bbf4d.js.map": "/orange-club/static/js/main.951bbf4d.js.map"
   },
   "entrypoints": [
     "static/css/main.6a1b3bce.css",
-    "static/js/main.2b25fc21.js"
+    "static/js/main.951bbf4d.js"
   ]
 }
