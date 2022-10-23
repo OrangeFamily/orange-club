@@ -8,6 +8,13 @@ const VodkaMass=[
     },
     {
         id:2,
+        title:"Nemiroff Lex (Україна) 0,5л",
+        price:"600 грн",
+        src: require('../img/lex.png'),
+        text:"50мл - 60грн",
+    },
+    {
+        id:3,
         title:"Nemiroff Original (Україна) 0,5л",
         price:"380 грн",
         src: require('../img/nemiroff.png'),
