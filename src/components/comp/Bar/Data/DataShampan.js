@@ -36,7 +36,7 @@ const ShampanMass=[
     },
     {
         id:6,
-        title:"Marengo Sweet (Україна) сух./біл. 0,75л",
+        title:"Marengo Sweet (Україна) сол./біл. 0,75л",
         price:"300 грн",
         src: require('../img/marengos.png'),
         text:"100мл - 40грн",
