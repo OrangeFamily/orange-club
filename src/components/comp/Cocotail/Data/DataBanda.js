@@ -24,7 +24,7 @@ const BandaMass=[
     {
         id:4,
         title:"Німецька ніч 350мл",
-        price:"170 грн",
+        price:"179 грн",
         src: require('../img/noch.png'),
         text:"ром золотий, jagermaister, амарето лікер, сік лимона, cахарний сироп, пепсі ",
     },

@@ -16,9 +16,9 @@ const AperetivMass=[
     {
         id:3,
         title:"Ксента Абсента (Італія) 1л",
-        price:"1480 грн",
+        price:"2000 грн",
         src: require('../img/xenta.png'),
-        text:"50мл - 74грн",
+        text:"50мл - 100грн",
     },
     
     
