@@ -67,7 +67,9 @@ top: 0;
   width: 1366px;
   // padding: 60px;
   // background-color: orange;
-  background-image: url(./img/fon1.jpg);
+  background-image: url(./img/fon1.webp);
+  background-size: contain;
+  background-attachment: fixed;
   // background-size: contain;
   // background-repeat: no-repeat;
 
