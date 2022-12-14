@@ -7,7 +7,7 @@ const TekilaMass=[
         text:"50мл - 86грн",
     },
     {
-        id:1,
+        id:2,
         title:"Хосе Куерво Еспешиал Репосадо (Мексика) 1л",
         price:"1720 грн",
         src: require('../img/jkg.webp'),

@@ -29,7 +29,7 @@ const AssortiMass=[
         text:"гауда, пармезан, брі, дорблю",
     },
     {
-        id:4,
+        id:5,
         title:"фруктова тарілка 700г",
         price:"159 грн",
         src:require('../img/fruttar.webp'),

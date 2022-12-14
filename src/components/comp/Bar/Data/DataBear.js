@@ -1,25 +1,25 @@
 const BearMass=[
-    {
-        id:1,
-        title:"Kronenbourg Blanc (Франція) кегове",
-        price:"0,5л - 69 грн",
-        src: require('../img/kron.webp'),
-        text:"0,33л - 55 грн",
-    },
-    {
-        id:2,
-        title:"Dunkel темне (Україна) кегове",
-        price:"0,5л - 69 грн",
-        src: require('../img/dunkel.webp'),
-        text:"",
-    },
-    {
-        id:3,
-        title:"Carlsberg (Данія) кегове",
-        price:"0,5л - 69 грн",
-        src: require('../img/carl.webp'),
-        text:"0,33л - 45 грн",
-    },
+    // {
+    //     id:1,
+    //     title:"Kronenbourg Blanc (Франція) кегове",
+    //     price:"0,5л - 69 грн",
+    //     src: require('../img/kron.webp'),
+    //     text:"0,33л - 55 грн",
+    // },
+    // {
+    //     id:2,
+    //     title:"Dunkel темне (Україна) кегове",
+    //     price:"0,5л - 69 грн",
+    //     src: require('../img/dunkel.webp'),
+    //     text:"",
+    // },
+    // {
+    //     id:3,
+    //     title:"Carlsberg (Данія) кегове",
+    //     price:"0,5л - 69 грн",
+    //     src: require('../img/carl.webp'),
+    //     text:"0,33л - 45 грн",
+    // },
     {
         id:4,
         title:"Corona Extra (Mexico) пляшкове 0,355",
