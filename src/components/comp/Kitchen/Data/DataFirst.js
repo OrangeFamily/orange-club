@@ -3,14 +3,14 @@ const FirstMass=[
         id:1,
         title:"Бульйон з куркою 250г",
         price:"49 грн",
-        src: require('../img/chiken.webp'),
+        src: require('../img/chikensup.webp'),
         text:"Бульйон, філе куряче, локшина, яйце перепелине, зелень",
     },
     {
         id:2,
         title:"грибний крем-суп 250г",
         price:"79 грн",
-        src: require('../img/mush.webp'),
+        src: require('../img/mushsup.webp'),
         text:"печериці, цибуля ріпчаста, вершки, сухарики",
     },
     {
