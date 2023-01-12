@@ -17,7 +17,7 @@ const VineMass=[
         id:3,
         title:"Baron Simon (Іспанія) біл./напівсол. 0,75л",
         price:"450 грн",
-        src: require('../img/sensiveneto.webp'),
+        src: require('../img/baronSimonBel.png'),
         text:"100мл - 60грн",
     },
     {
