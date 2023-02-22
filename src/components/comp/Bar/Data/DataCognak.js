@@ -9,9 +9,9 @@ const CognakMass=[
     {
         id:2,
         title:"Старий Кахеті **** (Грузія) 0,5л",
-        price:"580 грн",
+        price:"620 грн",
         src: require('../img/sk4.webp'),
-        text:"50мл - 58грн",
+        text:"50мл - 62грн",
     },
     {
         id:3,

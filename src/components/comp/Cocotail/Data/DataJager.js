@@ -23,7 +23,7 @@ const JagerMass=[
     {
         id:4,
         title:"Flying Deer 300мл",
-        price:"150 грн",
+        price:"165 грн",
         src: require('../img/1.webp'),
         text:"Jägermeister, Red Bull",
     },

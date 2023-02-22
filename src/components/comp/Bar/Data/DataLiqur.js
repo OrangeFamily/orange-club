@@ -23,9 +23,9 @@ const LiqurMass=[
     {
         id:4,
         title:"Самбука (Італія) 0,7л",
-        price:"1064 грн",
+        price:"1200 грн",
         src: require('../img/sambuka.webp'),
-        text:"50мл - 76грн",
+        text:"50мл - 89грн",
     },
     
 ]

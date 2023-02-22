@@ -44,7 +44,7 @@ const ShotDrinkMass=[
     {
         id:7,
         title:"Текіла Бум 120мл",
-        price:"135 грн",
+        price:"165 грн",
         src: require('../img/bumka.webp'),
         text:"текіла, лимонній фреш 7up",
     },

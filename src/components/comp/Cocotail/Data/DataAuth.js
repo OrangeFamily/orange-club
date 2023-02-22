@@ -16,7 +16,7 @@ const AuthMass=[
     // {
     //     id:3,
     //     title:"Краще, ніж секс 120мл",
-    //     price:"130 грн",
+    //     price:"150 грн",
     //     src: require('../img/sex.webp'),
     //     text:"самбука, лікер кавовий, морозиво, молоко",
     // },
@@ -30,7 +30,7 @@ const AuthMass=[
     {
         id:5,
         title:"Зелена смерть 450мл",
-        price:"160 грн",
+        price:"170 грн",
         src: require('../img/smer.webp'),
         text:"абсент, горілка, лікер м’ятний, тонік, лимнонний фреш",
     },
@@ -52,7 +52,7 @@ const AuthMass=[
     {
         id:8,
         title:"Зелена фея 450мл",
-        price:"180 грн",
+        price:"190 грн",
         src: require('../img/fea.webp'),
         text:"горілка, ром золотий, лікер динний, ред бул",
     },

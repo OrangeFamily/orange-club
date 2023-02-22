@@ -9,7 +9,7 @@ const WiskeyMass=[
     {
         id:2,
         title:"Белл'с Оріджинал (Шотландія) 1л",
-        price:"1480 грн",
+        price:"1520 грн",
         src: require('../img/bels.webp'),
         text:"50мл - 74грн",
     },
@@ -23,14 +23,14 @@ const WiskeyMass=[
     {
         id:4,
         title:"Джек Деніелс (Теннессі) 1л",
-        price:"1960 грн",
+        price:"2160 грн",
         src: require('../img/jd.webp'),
         text:"50мл - 98грн",
     },
     {
         id:5,
         title:"Джек Деніелс Медовий (Теннессі) 1л",
-        price:"1960 грн",
+        price:"2200 грн",
         src: require('../img/jdh.webp'),
         text:"50мл - 98грн",
     },

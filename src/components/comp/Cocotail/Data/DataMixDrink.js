@@ -2,7 +2,7 @@ const MixDrinkMass=[
     {
         id:1,
         title:"Red Bull Vodka 300мл",
-        price:"120 грн",
+        price:"135 грн",
         src: require('../img/1.webp'),
         text:"Red Bull, горілка",
     },

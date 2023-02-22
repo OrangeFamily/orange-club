@@ -2,9 +2,9 @@ const VodkaMass=[
     {
         id:1,
         title:"Absolut (Швеція) 0,5л",
-        price:"600 грн",
+        price:"650 грн",
         src: require('../img/absolut.webp'),
-        text:"50мл - 60грн",
+        text:"50мл - 65грн",
     },
     {
         id:2,
