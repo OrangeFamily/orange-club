@@ -4,7 +4,7 @@ const ClasicMass=[
         title:"Беліні 150мл",
         price:"149 грн",
         src: require('../img/beli.webp'),
-        text:"prosecco, сік персиковий",
+        text:"prosecco, пюре персикове",
     },
     {
         id:2,
@@ -151,7 +151,7 @@ const ClasicMass=[
         title:"Манхеттен 120мл",
         price:"160 грн",
         src: require('../img/manh.webp'),
-        text:"бурбон Bulleit, червоний вермут, ангостура",
+        text:"бурбон, червоний вермут, ангостура",
     },
     // {
     //     id:23,
