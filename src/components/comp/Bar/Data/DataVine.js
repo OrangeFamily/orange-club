@@ -36,7 +36,7 @@ const VineMass=[
     },
     {
         id:6,
-        title:"Терра Італіаніка Россо (Італія) черв./напівсол. 0,75л",
+        title:"Terra Italianica «Rosso Amabile» (Італія) черв./напівсол. 0,75л",
         price:"450 грн",
         src: require('../img/terrar.webp'),
         text:"100мл - 60грн",

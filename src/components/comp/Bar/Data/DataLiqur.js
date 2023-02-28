@@ -1,7 +1,7 @@
 const LiqurMass=[
     {
         id:1,
-        title:"Вершковий лікер (Ірландія) 1л",
+        title:"Бейліс Оріджинал (Ірландія) 1л",
         price:"1620 грн",
         src: require('../img/bail.webp'),
         text:"50мл - 81грн",

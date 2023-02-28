@@ -1,7 +1,7 @@
 const CognakMass=[
     {
         id:1,
-        title:"Ремі Мартін VSOP (Франція) 0,5л",
+        title:"Реми Мартан VSOP (Франція) 0,5л",
         price:"2460 грн",
         src: require('../img/rmvsop.webp'),
         text:"50мл - 246грн",
