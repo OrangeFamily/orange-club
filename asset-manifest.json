@@ -1,12 +1,32 @@
 {
   "files": {
     "main.css": "/orange-club/static/css/main.a5ab0c7b.css",
-    "main.js": "/orange-club/static/js/main.50bdd5d7.js",
+    "main.js": "/orange-club/static/js/main.4f7bf84b.js",
+    "static/media/obrayen.png": "/orange-club/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/vaflizfrut.png": "/orange-club/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/solVafli.png": "/orange-club/static/media/solVafli.1a05b04d965d8d35a71d.png",
+    "static/media/smirnoff.png": "/orange-club/static/media/smirnoff.fc1298dc3be346ba2d4a.png",
+    "static/media/JaranaR.png": "/orange-club/static/media/JaranaR.6379a6380a15c02be276.png",
     "static/media/fon1.webp": "/orange-club/static/media/fon1.657bcf82fef57161434a.webp",
+    "static/media/bulit.png": "/orange-club/static/media/bulit.78bad35d53945cbaea15.png",
+    "static/media/Tanqueray.png": "/orange-club/static/media/Tanqueray.26d465186a9680c4f03d.png",
+    "static/media/henessi.png": "/orange-club/static/media/henessi.79933514bd6c60ae4c5c.png",
+    "static/media/kosk.png": "/orange-club/static/media/kosk.18fcbbfd3433dd3ab673.png",
+    "static/media/JaranaB.png": "/orange-club/static/media/JaranaB.7e7e873f70bee6fc593e.png",
+    "static/media/koblevo.png": "/orange-club/static/media/koblevo.53154833b934e056b016.png",
+    "static/media/singlton.png": "/orange-club/static/media/singlton.65bd45c5bd4c0a045070.png",
     "static/media/inst.png": "/orange-club/static/media/inst.da61275da83501aa7a6f.png",
+    "static/media/label.png": "/orange-club/static/media/label.21a50603606c921107dc.png",
+    "static/media/persha.png": "/orange-club/static/media/persha.af96eb9c832cb34aa081.png",
+    "static/media/legenda.png": "/orange-club/static/media/legenda.3f20a25e441e36566a3d.png",
+    "static/media/geovaleybel.png": "/orange-club/static/media/geovaleybel.f7efec97efc40b25eb3e.png",
+    "static/media/donbel.png": "/orange-club/static/media/donbel.9b831a034c8320d62279.png",
+    "static/media/sensipino.png": "/orange-club/static/media/sensipino.871af1e64cdbee94acd1.png",
+    "static/media/kanoni.png": "/orange-club/static/media/kanoni.3bcae90544ec59370d9d.png",
+    "static/media/metaxa.png": "/orange-club/static/media/metaxa.e8c34570c0213f5a0b9e.png",
+    "static/media/geovaleykr.png": "/orange-club/static/media/geovaleykr.b8612326f22404528322.png",
     "static/media/sanSimonKrasn.png": "/orange-club/static/media/sanSimonKrasn.5b731b813d5f1a4c9706.png",
+    "static/media/donkr.png": "/orange-club/static/media/donkr.5fac167059f1b81c9303.png",
     "static/media/baronSimonBel.png": "/orange-club/static/media/baronSimonBel.63b1442db750135f7551.png",
     "static/media/sanSimonBel.png": "/orange-club/static/media/sanSimonBel.e072e86cac2cc3b31a0e.png",
     "static/media/century-gotic.ttf": "/orange-club/static/media/century-gotic.b194aa2bd524e2c973f7.ttf",
@@ -124,6 +144,7 @@
     "static/media/rmvsop.webp": "/orange-club/static/media/rmvsop.bba004ff4eb7d65266b0.webp",
     "static/media/bovar.webp": "/orange-club/static/media/bovar.3f573b7182b6333e8d0b.webp",
     "static/media/sensidal.webp": "/orange-club/static/media/sensidal.7edfefce43224db42ec8.webp",
+    "static/media/terrab.webp": "/orange-club/static/media/terrab.1d745f8a3c9f07bbad71.webp",
     "static/media/neuropol-mwdium.ttf": "/orange-club/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "static/media/cezarpizza.webp": "/orange-club/static/media/cezarpizza.167ba37b6a7ee5f06c75.webp",
     "static/media/morshs.webp": "/orange-club/static/media/morshs.2462b84ed2e4c1a2f101.webp",
@@ -173,10 +194,10 @@
     "static/media/campary.webp": "/orange-club/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-club/index.html",
     "main.a5ab0c7b.css.map": "/orange-club/static/css/main.a5ab0c7b.css.map",
-    "main.50bdd5d7.js.map": "/orange-club/static/js/main.50bdd5d7.js.map"
+    "main.4f7bf84b.js.map": "/orange-club/static/js/main.4f7bf84b.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ab0c7b.css",
-    "static/js/main.50bdd5d7.js"
+    "static/js/main.4f7bf84b.js"
   ]
 }
