@@ -45,14 +45,14 @@ const VineMass=[
         id:7,
         title:"Terra Italianica «Bianco» (Італія) біл./напівсол. 0,75л",
         price:"450 грн",
-        src: require('../img/terrar.webp'),
+        src: require('../img/terrab.webp'),
         text:"100мл - 60грн",
     },
     {
         id:8,
         title:"Terra Italianica «Rosso Amabile» (Італія) черв./напівсол. 0,75л",
         price:"450 грн",
-        src: require('../img/terrab.webp'),
+        src: require('../img/terrar.webp'),
         text:"100мл - 60грн",
     },
     {
