@@ -6,13 +6,13 @@ const RomMass=[
         src: require('../img/kmg.webp'),
         text:"50мл - 86 грн",
     },
-    {
-        id:2,
-        title:"Кептен Морган Уайт (Ямайка) 1л",
-        price:"1700 грн",
-        src: require('../img/kmw.webp'),
-        text:"50мл - 85 грн",
-    },
+    // {
+    //     id:2,
+    //     title:"Кептен Морган Уайт (Ямайка) 1л",
+    //     price:"1700 грн",
+    //     src: require('../img/kmw.webp'),
+    //     text:"50мл - 85 грн",
+    // },
     {
         id:3,
         title:"Кептен Морган Дарк (Ямайка) 1л",
