@@ -13,13 +13,13 @@ const VodkaMass=[
         src: require('../img/lex.webp'),
         text:"50мл - 60грн",
     },
-    {
-        id:3,
-        title:"Nemiroff Original (Україна) 0,5л",
-        price:"380 грн",
-        src: require('../img/nemiroff.webp'),
-        text:"50мл - 38грн",
-    },
+    // {
+    //     id:3,
+    //     title:"Nemiroff Original (Україна) 0,5л",
+    //     price:"380 грн",
+    //     src: require('../img/nemiroff.webp'),
+    //     text:"50мл - 38грн",
+    // },
     {
         id:4,
         title:"Коскенкорва (Фінляндія) 0,5л",
