@@ -8,8 +8,8 @@ const DrinkMass=[
     },
     {
         id:2,
-        title:"Евервесс тонік  0.5 л",
-        price:"65 грн",
+        title:"Евервесс тонік  0.75 л",
+        price:"97 грн",
         src: require('../img/tonic.webp'),
         text:"",
     },
@@ -29,15 +29,15 @@ const DrinkMass=[
     },
     {
         id:5,
-        title:"Моршинська газ. 0,5 л",
-        price:"52 грн",
+        title:"Моршинська газ. 0,3 л",
+        price:"50 грн",
         src: require('../img/morshs.webp'),
         text:"",
     },
     {
         id:6,
-        title:"Моршинська негаз. 0,5 л",
-        price:"52 грн",
+        title:"Моршинська негаз. 0,3 л",
+        price:"50 грн",
         src: require('../img/morshnon.webp'),
         text:"",
     },
@@ -62,6 +62,7 @@ const DrinkMass=[
         src: require('../img/pepsil.webp'),
         text:"",
     },
+    
     
 ]
 
