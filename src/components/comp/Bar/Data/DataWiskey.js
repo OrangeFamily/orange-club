@@ -57,7 +57,7 @@ const WiskeyMass=[
     },
     {
         id:9,
-        title:"Обраєн (Ірландія) 0,7л",
+        title:"О'Браєн (Ірландія) 0,7л",
         price:"1372 грн",
         src:require('../img/obrayen.png'),
         text:"50мл - 98 грн",

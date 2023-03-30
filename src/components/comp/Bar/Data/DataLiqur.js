@@ -22,7 +22,7 @@ const LiqurMass=[
     },
     {
         id:4,
-        title:"Самбука (Італія) 0,7л",
+        title:"Самбука Антіка Классік (Італія) 0,7л",
         price:"146 грн",
         src: require('../img/sambuka.webp'),
         text:"50мл - 89грн",
