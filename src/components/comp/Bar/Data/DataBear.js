@@ -27,13 +27,13 @@ const BearMass=[
         src: require('../img/corona.webp'),
         text:"",
     },
-    {
-        id:5,
-        title:"Carlsberg (Данія)(Б/А) пляшкове 0,5л",
-        price:"69 грн",
-        src: require('../img/carlnon.webp'),
-        text:"",
-    },
+    // {
+    //     id:5,
+    //     title:"Carlsberg (Данія)(Б/А) пляшкове 0,5л",
+    //     price:"69 грн",
+    //     src: require('../img/carlnon.webp'),
+    //     text:"",
+    // },
     {
         id:6,
         title:"Hoegaarden (Бельгія) пляшкове 0,33",
@@ -41,7 +41,13 @@ const BearMass=[
         src: require('../img/hoegarden.webp'),
         text:"",
     },
-    
+    {
+        id:9,
+        title:"Стелла артуа (Бельгія)(Б/А) пляшкове 0,33",
+        price:"59 грн",
+        src: require('../img/stelababut.png'),
+        text:"",
+    },
     
 ]
 
