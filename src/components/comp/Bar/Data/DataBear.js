@@ -45,7 +45,7 @@ const BearMass=[
         id:9,
         title:"Стелла артуа (Бельгія)(Б/А) пляшкове 0,33",
         price:"59 грн",
-        src: require('../img/stelababut.png'),
+        src: require('../img/stellagb.png'),
         text:"",
     },
     
