@@ -48,13 +48,13 @@ const NarCoctMass=[
         src: require('../img/che.webp'),
         text:"50мл - 39грн",
     },
-    {
-        id:8,
-        title:"Кавова 0,5л",
-        price:"390 грн",
-        src: require('../img/co.webp'),
-        text:"50мл - 39грн",
-    },
+    // {
+    //     id:8,
+    //     title:"Кавова 0,5л",
+    //     price:"390 грн",
+    //     src: require('../img/co.webp'),
+    //     text:"50мл - 39грн",
+    // },
     
 ]
 
