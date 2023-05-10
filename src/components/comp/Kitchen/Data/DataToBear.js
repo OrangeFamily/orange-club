@@ -1,5 +1,40 @@
 const ToBearMass=[
     {
+        id:12,
+        title:"Fish & Chips 300г/100г",
+        price:"179 грн",
+        src: require('../img/fishandchips.png'),
+        text:"Філе білої риби, темпура, картопля фрі, соус тар-тар, кетчуп, лимон",
+    },
+    {
+        id:13,
+        title:"Цибулеві кільця 150г/50г",
+        price:"89 грн",
+        src: require('../img/lukkolca.png'),
+        text:"Цибуля, паніровка, соус часниковий",
+    },
+    {
+        id:14,
+        title:"Тартар з лосося 250г",
+        price:"280 грн",
+        src: require('../img/tartartlosos.png'),
+        text:"Лосось, цибуля, лимон, авокадо, перець солодкий, соевий соус, оливкове масло, багет",
+    },
+    {
+        id:15,
+        title:"Крокети курячі 180г/50г",
+        price:"89 грн",
+        src: require('../img/kurikrocket.png'),
+        text:"філе куряче, паніровка, соус тар-тар",
+    },
+    {
+        id:16,
+        title:"Крокети м'ясні 180г/50г",
+        price:"155 грн",
+        src: require('../img/myaskrocket.png'),
+        text:"Ошийок свинячий, паніровка, цибуля, сосус BBQ",
+    },
+    {
         id:1,
         title:"«Поросячий виск» 130г",
         price:"89 грн",

@@ -38,8 +38,8 @@ const PizzaMass=[
         id:6,
         title:"Шинка-печериці 500г/1000г",
         price:"199грн/299грн",
-        src: require('../img/mushpizza.webp'),
-        text:"шинка, печериці, моцарелла, томатний соус",
+        src: require('../img/mushpizza.png'),
+        text:"шинка, печериці, моцарелла, вершки, часник",
     },
     {
         id:7,

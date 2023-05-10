@@ -62,7 +62,13 @@ const DrinkMass=[
         src: require('../img/pepsil.webp'),
         text:"",
     },
-    
+    {
+        id:10,
+        title:"Пепсі без цукру 1 л",
+        price:"100 грн",
+        src: require('../img/pepsil.webp'),
+        text:"",
+    },
     
 ]
 
