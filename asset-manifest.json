@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/orange-club/static/css/main.a5ab0c7b.css",
-    "main.js": "/orange-club/static/js/main.1a02025a.js",
+    "main.js": "/orange-club/static/js/main.178c83a0.js",
     "static/media/bbq.png": "/orange-club/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-club/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/salatproshuto.png": "/orange-club/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
+    "static/media/sirgrusha.png": "/orange-club/static/media/sirgrusha.fa63965e29fdf0ddea11.png",
     "static/media/munhenkovb.png": "/orange-club/static/media/munhenkovb.0566f4ecbb0383021e12.png",
+    "static/media/hamonmacarella.png": "/orange-club/static/media/hamonmacarella.6917dd44078b81c558eb.png",
     "static/media/sirnayapasta.png": "/orange-club/static/media/sirnayapasta.2201648d9f2f993506b3.png",
     "static/media/vaflizfrut.png": "/orange-club/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/mushpizza.png": "/orange-club/static/media/mushpizza.c09b3b86aca1d505aa5b.png",
@@ -15,6 +17,7 @@
     "static/media/myaskrocket.png": "/orange-club/static/media/myaskrocket.961b0b4710cea3f86ded.png",
     "static/media/fishandchips.png": "/orange-club/static/media/fishandchips.dc3a79a2b7471e1e44b7.png",
     "static/media/tartartlosos.png": "/orange-club/static/media/tartartlosos.da173abc23c89b2f48a2.png",
+    "static/media/okroshka.png": "/orange-club/static/media/okroshka.574a86ee3cca68e5013b.png",
     "static/media/smirnoff.png": "/orange-club/static/media/smirnoff.fc1298dc3be346ba2d4a.png",
     "static/media/fayniyjin.png": "/orange-club/static/media/fayniyjin.93f8c5d020fed7d6a030.png",
     "static/media/stellagb.png": "/orange-club/static/media/stellagb.0167ef0c9537f44ba0ad.png",
@@ -155,12 +158,15 @@
     "static/media/proseco.webp": "/orange-club/static/media/proseco.d0f139a84aa17d0fb1c1.webp",
     "static/media/morshnon.webp": "/orange-club/static/media/morshnon.e9001b8b802c7cbaaff2.webp",
     "static/media/glen.webp": "/orange-club/static/media/glen.d13603ae5b8d54e3c5eb.webp",
+    "static/media/mushsup.webp": "/orange-club/static/media/mushsup.268294c04e0a46c55d46.webp",
     "static/media/meet-mix.webp": "/orange-club/static/media/meet-mix.9e8d959edd478e50ab93.webp",
+    "static/media/chikensup.webp": "/orange-club/static/media/chikensup.ceecf8e6e606a643edda.webp",
     "static/media/cream.webp": "/orange-club/static/media/cream.5468fde51d04ce1ab781.webp",
     "static/media/salyami.webp": "/orange-club/static/media/salyami.d21a898683340ed25d56.webp",
     "static/media/fri.webp": "/orange-club/static/media/fri.9cee5c5ba5a4635b7eee.webp",
     "static/media/cawpizza.webp": "/orange-club/static/media/cawpizza.0e83a679a6adce06f7c3.webp",
     "static/media/fly.webp": "/orange-club/static/media/fly.2d84481e820700fcd9ac.webp",
+    "static/media/solyanka.webp": "/orange-club/static/media/solyanka.97a6d05d6f2f4a00cdc1.webp",
     "static/media/tomato.webp": "/orange-club/static/media/tomato.5971041c244e9deebae2.webp",
     "static/media/six-chees.webp": "/orange-club/static/media/six-chees.b15fa6fc3d35ff2f3183.webp",
     "static/media/seefood.webp": "/orange-club/static/media/seefood.b7df76ca54f273098ad7.webp",
@@ -192,10 +198,10 @@
     "static/media/campary.webp": "/orange-club/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-club/index.html",
     "main.a5ab0c7b.css.map": "/orange-club/static/css/main.a5ab0c7b.css.map",
-    "main.1a02025a.js.map": "/orange-club/static/js/main.1a02025a.js.map"
+    "main.178c83a0.js.map": "/orange-club/static/js/main.178c83a0.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ab0c7b.css",
-    "static/js/main.1a02025a.js"
+    "static/js/main.178c83a0.js"
   ]
 }
