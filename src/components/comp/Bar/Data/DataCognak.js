@@ -51,9 +51,9 @@ const CognakMass=[
     {
         id:7,
         title:"Каноні 5 * (Грузія) 0,5л",
-        price:"630 грн",
+        price:"650 грн",
         src: require('../img/kanoni.png'),
-        text:"50мл - 63 грн",
+        text:"50мл - 65 грн",
     },
     
 ]

@@ -39,7 +39,7 @@ const BandaMass=[
     {
         id:4,
         title:"Німецька ніч 350мл",
-        price:"179 грн",
+        price:"185 грн",
         src: require('../img/noch.webp'),
         text:"ром золотий, jagermaister, амарето лікер, сік лимона, cахарний сироп, пепсі ",
     },
@@ -53,7 +53,7 @@ const BandaMass=[
     {
         id:6,
         title:"Азія мінор айс ті 450мл",
-        price:"170 грн",
+        price:"175 грн",
         src: require('../img/azia.webp'),
         text:"горілка, ром золотий, джин, лікер диня, сік лимона, 7up",
     },
@@ -75,7 +75,7 @@ const BandaMass=[
     {
         id:9,
         title:"Sunset 350мл",
-        price:"165 грн",
+        price:"170 грн",
         src: require('../img/sunset.webp'),
         text:"горілка, ром золотий, джин, лікер персиковий, сік лимонний, цукровий сироп, сік апельсиновий, сироп грінадін",
     },

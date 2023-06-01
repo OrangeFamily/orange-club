@@ -17,7 +17,7 @@ const ToBearMass=[
     {
         id:15,
         title:"Крокети курячі 180г/50г",
-        price:"89 грн",
+        price:"99 грн",
         src: require('../img/kurikrocket.png'),
         text:"філе куряче, паніровка, соус тар-тар",
     },
@@ -52,7 +52,7 @@ const ToBearMass=[
     {
         id:4,
         title:"«Мюнхенські сухарики» 150г",
-        price:"69 грн",
+        price:"79 грн",
         src: require('../img/suh.webp'),
         text:"хліб, часниковий соус, майонез, сир",
     },
@@ -87,14 +87,14 @@ const ToBearMass=[
     {
         id:9,
         title:"кальмар темпура 100г/50г",
-        price:"120 грн",
+        price:"129 грн",
         src: require('../img/kalmar.webp'),
         text:"кальмар, темпра, соус тар-тар",
     },
     {
         id:10,
         title:"тигрові креветки темпура 120г/50г",
-        price:"189 грн",
+        price:"199 грн",
         src: require('../img/tiger.webp'),
         text:"тигрові креветки, темпура, соус солодкий чілі, лимон",
     },

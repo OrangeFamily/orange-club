@@ -44,7 +44,7 @@ const DrinkMass=[
     {
         id:7,
         title:"Боржомі 0,5л",
-        price:"77 грн",
+        price:"85 грн",
         src: require('../img/borj.webp'),
         text:"",
     },
@@ -69,6 +69,7 @@ const DrinkMass=[
         src: require('../img/pepsil.webp'),
         text:"",
     },
+    
     
 ]
 
