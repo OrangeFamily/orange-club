@@ -9,7 +9,7 @@ const AssortiMass=[
     {
         id:2,
         title:"тарілка під пиво 150г",
-        price:"155 грн",
+        price:"199 грн",
         src:require('../img/tartobear.webp'),
         text:"курка в'ялена, свинина в'ялена, хамон",
     },

@@ -29,6 +29,27 @@ const ToBearMass=[
         text:"Ошийок свинячий, паніровка, цибуля, сосус BBQ",
     },
     {
+        id:17,
+        title:"курка в'ялена 50г",
+        price:"79 грн",
+        src:require('../img/123123.webp'),
+        text:"",
+    },
+    {
+        id:18,
+        title:"свинина в'ялена 50г",
+        price:"89 грн",
+        src:require('../img/123123.webp'),
+        text:"",
+    },
+    {
+        id:19,
+        title:"хамон 50г",
+        price:"99 грн",
+        src:require('../img/123123.webp'),
+        text:"",
+    },
+    {
         id:1,
         title:"«Поросячий виск» 130г",
         price:"89 грн",
