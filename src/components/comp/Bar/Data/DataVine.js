@@ -1,11 +1,11 @@
 const VineMass=[
-    {
-        id:1,
-        title:"Echo Fals «White Zinfadel» (США) рожеве/напівсух. 0,75л",
-        price:"555 грн",
-        src: require('../img/echozin.webp'),
-        text:"100мл - 74грн",
-    },
+//    {
+        //id:1,
+        //title:"Echo Fals «White Zinfadel» (США) рожеве/напівсух. 0,75л",
+        //price:"555 грн",
+        //src: require('../img/echozin.webp'),
+        //text:"100мл - 74грн",
+    //},
     {
         id:2,
         title:"Sensi «Collezione Pinot Grigio» (Італія) біл./сух. 0,75л",
