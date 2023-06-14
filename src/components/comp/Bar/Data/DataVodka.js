@@ -27,13 +27,13 @@ const VodkaMass=[
         src: require('../img/kosk.png'),
         text:"50мл - 65 грн",
     },
-    {
-        id:5,
-        title:"Коскенкорва імбир (Фінляндія) 0,5л",
-        price:"700 грн",
-        src: require('../img/kosk.png'),
-        text:"50мл - 70 грн",
-    },
+    //{
+        //id:5,
+        //title:"Коскенкорва імбир (Фінляндія) 0,5л",
+        //price:"700 грн",
+        //src: require('../img/kosk.png'),
+        //text:"50мл - 70 грн",
+    //},
     {
         id:6,
         title:"Смірнофф Ред №21 (Великобританія) 0,5л",
