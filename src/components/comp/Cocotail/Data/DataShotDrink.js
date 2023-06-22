@@ -23,7 +23,7 @@ const ShotDrinkMass=[
     {
         id:4,
         title:"Хіросіма 45мл",
-        price:"120 грн",
+        price:"130 грн",
         src: require('../img/hiro.webp'),
         text:"абсент, самбука, вершковий лікер, гранатовий сироп",
     },

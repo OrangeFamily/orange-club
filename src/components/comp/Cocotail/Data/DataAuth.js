@@ -30,7 +30,7 @@ const AuthMass=[
     {
         id:5,
         title:"Зелена смерть 450мл",
-        price:"175 грн",
+        price:"185 грн",
         src: require('../img/smer.webp'),
         text:"абсент, горілка, лікер м’ятний, тонік, лимнонний фреш",
     },

@@ -59,7 +59,7 @@ const ToBearMass=[
     {
         id:2,
         title:"Фірмові нагетси 150г/50г",
-        price:"89 грн",
+        price:"99 грн",
         src: require('../img/naget.webp'),
         text:"куряче філе в паніровці, медово - гірчичний соус",
     },
