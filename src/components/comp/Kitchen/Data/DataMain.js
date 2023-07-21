@@ -30,7 +30,7 @@ const MainMass=[
     {
         id:2,
         title:"стейк з лосося 150г/50г",
-        price:"230 грн",
+        price:"299 грн",
         src:require('../img/steykred.webp'),
         text:"лосось, лимон, соус тар-тар",
     },
