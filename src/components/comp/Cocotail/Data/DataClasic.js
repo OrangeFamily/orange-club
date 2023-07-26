@@ -51,21 +51,21 @@ const ClasicMass=[
     {
         id:8,
         title:"Пінья колада 350мл",
-        price:"160 грн",
+        price:"165 грн",
         src: require('../img/colada.webp'),
         text:"ром, лікер кокосовий, сік ананасовий, вершки",
     },
     {
         id:9,
         title:"Гарібальді 250мл",
-        price:"135 грн",
+        price:"139 грн",
         src: require('../img/gari.webp'),
         text:"кампарі, сік апельсиновий",
     },
     {
         id:10,
         title:"Блакитні Гаваї 350мл",
-        price:"160 грн",
+        price:"179 грн",
         src: require('../img/gav.webp'),
         text:"ром, кокосовий лікер, лікер Блю Кюрасао, ананасовий сік",
     },
@@ -79,7 +79,7 @@ const ClasicMass=[
     {
         id:12,
         title:"Бульвардье 200мл",
-        price:"180 грн",
+        price:"189 грн",
         src: require('../img/bul.webp'),
         text:"Бурбон Буліт, червоний вермут, кампарі, цедра апельсина",
     },
