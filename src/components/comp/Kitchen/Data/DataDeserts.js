@@ -7,10 +7,10 @@ const DesertsMass=[
     //     text:"",
     // },
 {
-        id:3
+        id:3,
         title:"чізкейк 150г",
         price:"99 грн",
-        src: "",
+        
         text:"",
     },
     {
