@@ -1,5 +1,12 @@
 const ToBearMass=[
     {
+        id:20,
+        title:"Мюнхенські ковбаски 220г/50г",
+        price:"125 грн",
+        src:require('../img/munhenkovb.png'),
+        text:"Ковбаски, чебрець, сосус гірчичний",
+    },
+    {
         id:12,
         title:"Fish & Chips 300г/100г",
         price:"179 грн",
