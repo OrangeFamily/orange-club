@@ -6,13 +6,7 @@ const MainMass=[
         src:require('../img/bbq.png'),
         text:"Свинні ребра, соус BBQ, смажена цибуля",
     },
-    {
-        id:15,
-        title:"Мюнхенські ковбаски 220г/50г",
-        price:"159 грн",
-        src:require('../img/munhenkovb.png'),
-        text:"Ковбаски, чебрець, сосус гірчичний",
-    },
+    
     {
         id:16,
         title:"Тартар з лосося 250г",
