@@ -6,6 +6,13 @@ const DesertsMass=[
     //     src: require('../img/tort.webp'),
     //     text:"",
     // },
+{
+        id:3
+        title:"чізкейк 150г",
+        price:"99 грн",
+        src: "",
+        text:"",
+    },
     {
         id:1,
         title:"вафлі з фруктами та морозивом 280г",
