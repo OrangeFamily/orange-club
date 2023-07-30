@@ -10,7 +10,7 @@ const DesertsMass=[
         id:3,
         title:"чізкейк 150г",
         price:"99 грн",
-        
+        src: require('../img/chizcake.png'),
         text:"",
     },
     {
