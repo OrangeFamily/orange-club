@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/orange-club/static/css/main.a5ab0c7b.css",
-    "main.js": "/orange-club/static/js/main.a4c318ec.js",
+    "main.js": "/orange-club/static/js/main.a1a59496.js",
     "static/media/bbq.png": "/orange-club/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-club/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/salatproshuto.png": "/orange-club/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
     "static/media/munhenkovb.png": "/orange-club/static/media/munhenkovb.0566f4ecbb0383021e12.png",
-    "static/media/okroshka.png": "/orange-club/static/media/okroshka.ca6e62115f42cb48ab18.png",
     "static/media/sirnayapasta.png": "/orange-club/static/media/sirnayapasta.2201648d9f2f993506b3.png",
     "static/media/vaflizfrut.png": "/orange-club/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/sirgrusha.png": "/orange-club/static/media/sirgrusha.f41e9e0927b7b6ae58ff.png",
@@ -199,10 +198,10 @@
     "static/media/campary.webp": "/orange-club/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-club/index.html",
     "main.a5ab0c7b.css.map": "/orange-club/static/css/main.a5ab0c7b.css.map",
-    "main.a4c318ec.js.map": "/orange-club/static/js/main.a4c318ec.js.map"
+    "main.a1a59496.js.map": "/orange-club/static/js/main.a1a59496.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ab0c7b.css",
-    "static/js/main.a4c318ec.js"
+    "static/js/main.a1a59496.js"
   ]
 }
