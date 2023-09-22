@@ -30,14 +30,14 @@ const AdditivesMass=[
     {
         id:5,
         title:"Оливки 30г",
-        price:"59 грн",
+        price:"19 грн",
         src:require('../img/123123.webp'),
         text:"",
     },
     {
         id:6,
         title:"Маслини 30г",
-        price:"59 грн",
+        price:"19 грн",
         src:require('../img/123123.webp'),
         text:"",
     },
