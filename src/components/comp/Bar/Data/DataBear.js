@@ -23,7 +23,7 @@ const BearMass=[
     {
         id:4,
         title:"Corona Extra (Mexico) пляшкове 0,355",
-        price:"100 грн",
+        price:"120 грн",
         src: require('../img/corona.webp'),
         text:"",
     },
@@ -37,7 +37,7 @@ const BearMass=[
     {
         id:6,
         title:"Hoegaarden (Бельгія) пляшкове 0,33",
-        price:"100 грн",
+        price:"120 грн",
         src: require('../img/hoegarden.webp'),
         text:"",
     },

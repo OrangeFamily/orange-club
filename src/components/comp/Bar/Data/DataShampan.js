@@ -2,9 +2,9 @@ const ShampanMass=[
     {
         id:1,
         title:"Terra Serena «Prosecco Frizante» (Італія) ігристе, біл./сух. 0,75л",
-        price:"630 грн",
+        price:"675 грн",
         src: require('../img/proseco.webp'),
-        text:"100мл - 84 грн",
+        text:"100мл - 90 грн",
     },
     {
         id:2,
@@ -16,16 +16,16 @@ const ShampanMass=[
     {
         id:3,
         title:"San Mare Fragolino Rosso (Італія) сол./чер. 0,75 л",
-        price:"390 грн",
+        price:"450 грн",
         src: require('../img/fragolinor.webp'),
-        text:"100мл - 52 грн",
+        text:"100мл - 60 грн",
     },
     {
         id:4,
         title:"San Mare Pesca «Зі смаком персика » (Італія) напівсол./біл. 0,75 л",
-        price:"390 грн",
+        price:"450 грн",
         src: require('../img/fragolinob.webp'),
-        text:"100мл - 52 грн",
+        text:"100мл - 60 грн",
     },
     {
         id:5,

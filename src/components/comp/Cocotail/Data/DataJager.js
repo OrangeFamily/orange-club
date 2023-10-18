@@ -16,14 +16,14 @@ const JagerMass=[
     {
         id:3,
         title:"Jager-Cherry 200мл",
-        price:"120 грн",
+        price:"130 грн",
         src: require('../img/1.webp'),
         text:"Jägermeister, вишневий сік",
     },
     {
         id:4,
         title:"Flying Deer 300мл",
-        price:"165 грн",
+        price:"175 грн",
         src: require('../img/1.webp'),
         text:"Jägermeister, Red Bull",
     },

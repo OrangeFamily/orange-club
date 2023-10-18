@@ -30,9 +30,9 @@ const WiskeyMass=[
     {
         id:5,
         title:"Джек Деніелс Медовий (Теннессі) 1л",
-        price:"2200 грн",
+        price:"2400 грн",
         src: require('../img/jdh.webp'),
-        text:"50мл - 110 грн",
+        text:"50мл - 120 грн",
     },
     {
         id:6,

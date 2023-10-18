@@ -23,9 +23,9 @@ const VodkaMass=[
     {
         id:4,
         title:"Коскенкорва (Фінляндія) 0,5л",
-        price:"650 грн",
+        price:"700 грн",
         src: require('../img/kosk.png'),
-        text:"50мл - 65 грн",
+        text:"50мл - 70 грн",
     },
     //{
         //id:5,

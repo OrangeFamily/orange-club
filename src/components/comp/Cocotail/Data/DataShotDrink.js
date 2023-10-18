@@ -2,7 +2,7 @@ const ShotDrinkMass=[
     {
         id:1,
         title:"План «Капкан» 45мл",
-        price:"120 грн",
+        price:"130 грн",
         src: require('../img/kap.webp'),
         text:"самбука, вершковий лікер, текіла, сироп Блю Кюрасао",
     },

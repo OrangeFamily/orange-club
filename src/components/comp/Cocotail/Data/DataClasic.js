@@ -2,7 +2,7 @@ const ClasicMass=[
     {
         id:1,
         title:"Беліні 150мл",
-        price:"149 грн",
+        price:"159 грн",
         src: require('../img/beli.webp'),
         text:"prosecco, пюре персикове",
     },
@@ -16,7 +16,7 @@ const ClasicMass=[
     {
         id:3,
         title:"Лонг Айленд 450мл",
-        price:"190 грн",
+        price:"199 грн",
         src: require('../img/long.webp'),
         text:"ром, джин, горілка, лікер апельсиновий, лимонний фреш, пепсі",
     },
@@ -37,7 +37,7 @@ const ClasicMass=[
     {
         id:6,
         title:"Апероль спрітц 350мл",
-        price:"169 грн",
+        price:"189 грн",
         src: require('../img/aper.webp'),
         text:"апероль, просекко, мінеральна вода",
     },
@@ -79,7 +79,7 @@ const ClasicMass=[
     {
         id:12,
         title:"Бульвардье 200мл",
-        price:"189 грн",
+        price:"199 грн",
         src: require('../img/bul.webp'),
         text:"Бурбон Буліт, червоний вермут, кампарі, цедра апельсина",
     },
@@ -135,7 +135,7 @@ const ClasicMass=[
     {
         id:20,
         title:"Блакитна лагуна 350мл",
-        price:"140 грн",
+        price:"150 грн",
         src: require('../img/lagu.webp'),
         text:"горілка, лікер Блю Кюрасао, лимонний фреш, 7up",
     },
@@ -156,7 +156,7 @@ const ClasicMass=[
     // {
     //     id:23,
     //     title:"Кловер клаб 120мл",
-    //     price:"150 грн",
+    //     price:"160 грн",
     //     src: require('../img/club.webp'),
     //     text:"джин гордонс, малиновий сироп, лаймовий фреш, яєчний білок, м’ята",
     // },
