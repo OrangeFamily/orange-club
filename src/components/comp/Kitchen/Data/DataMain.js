@@ -4,11 +4,10 @@ const MainMass=[
         title:"Ребра BBQ 350г/50г",
         price:"199 грн",
         src:require('../img/bbq.png'),
-        text:"Свинні ребра, соус BBQ, смажена цибуля",
+        text:"Свинні ребра, соус BBQ, перець чілі",
     },
-    
     {
-        id:16,
+        id:15,
         title:"Тартар з лосося 250г",
         price:"280 грн",
         src: require('../img/tartartlosos.png'),
@@ -50,8 +49,15 @@ const MainMass=[
         text:"тигрові креветки, соус солодкий чілі, лимон",
     },
     {
+        id:16,
+        title:"Паста сирна 250г",
+        price:"140 грн",
+        src: require('../img/pastamidii.png'),
+        text:"Паста, вершки, мідії, сир пармезан",
+    },
+    {
         id:6,
-        title:"Паста сирна 260г",
+        title:"Паста з мідіями 260г",
         price:"139 грн",
         src: require('../img/sirnayapasta.png'),
         text:"Паста, вершки, сир дорблю, сир чеддер, сир пармезан, грецькі горіхи",
@@ -84,7 +90,27 @@ const MainMass=[
         src:require('../img/krevetka.webp'),
         text:"креветки, паста, вершки, пармезан, лимон",
     },
-    
+    {
+        id:17,
+        title:"сковорідка з морепродуктами 300г",
+        price:"220 грн",
+        src:require('../img/skovormore.png'),
+        text:"кальмар, мідії, креветка, соєвий соус, цибуля, часник",
+    },
+    {
+        id:18,
+        title:"сковорідка з кальмарами 200г",
+        price:"140 грн",
+        src:require('../img/skovorkalmar.png'),
+        text:"кальмар, перець болгарський, соєвий соус",
+    },
+    {
+        id:18,
+        title:"сковорідка з мідіями 200г",
+        price:"120 грн",
+        src:require('../img/skovormidii.png'),
+        text:"мідії, перець болгарський, соєвий соус",
+    },
     {
         id:11,
         title:"сковорідка з картоплею, куркою та грибами 320г",
