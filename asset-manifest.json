@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/orange-club/static/css/main.3cb3249e.css",
-    "main.js": "/orange-club/static/js/main.17e16631.js",
+    "main.js": "/orange-club/static/js/main.52570c34.js",
     "static/media/bbq.png": "/orange-club/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-club/static/media/obrayen.cc76be3c3a9688f5e746.png",
-    "static/media/norm.jpg": "/orange-club/static/media/norm.618f6607c58fdbf2b0d1.jpg",
+    "static/media/akc.jpg": "/orange-club/static/media/akc.ebc5abb25a48e7fc43f7.jpg",
     "static/media/salatproshuto.png": "/orange-club/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
     "static/media/munhenkovb.png": "/orange-club/static/media/munhenkovb.0566f4ecbb0383021e12.png",
     "static/media/salatsvin.png": "/orange-club/static/media/salatsvin.8c9b08fc3cfe0c62e174.png",
@@ -200,10 +200,10 @@
     "static/media/campary.webp": "/orange-club/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-club/index.html",
     "main.3cb3249e.css.map": "/orange-club/static/css/main.3cb3249e.css.map",
-    "main.17e16631.js.map": "/orange-club/static/js/main.17e16631.js.map"
+    "main.52570c34.js.map": "/orange-club/static/js/main.52570c34.js.map"
   },
   "entrypoints": [
     "static/css/main.3cb3249e.css",
-    "static/js/main.17e16631.js"
+    "static/js/main.52570c34.js"
   ]
 }
