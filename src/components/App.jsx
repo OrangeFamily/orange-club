@@ -57,7 +57,7 @@ import NonMass from './comp/Cocotail/Data/DataNon';
 import PartyMixMass from './comp/Cocotail/Data/DataPartyMix';
 import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
 // import eger from './img/norm.jpg'
-import egerakc from './img/akc.jpg'
+// import egerakc from './img/akc.jpg'
 
 
 export const App = () => {
@@ -297,17 +297,17 @@ export const App = () => {
                 </h1>
                 <AccordionPanel>
                   <Accordion allowMultiple>
-                  <AccordionItem>
+                  {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           пропозиція єгермайстер
                         </AccordionButton>
                       </h2>
                       <AccordionPanel>
-                       {/*  <img src={eger} alt="" className={s.imgeger}/> */}
+                        <img src={eger} alt="" className={s.imgeger}/>
                         <img src={egerakc} alt="" className={s.imgeger}/>
                       </AccordionPanel>
-                    </AccordionItem>
+                    </AccordionItem> */}
                     {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
