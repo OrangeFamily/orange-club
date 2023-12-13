@@ -48,6 +48,13 @@ const VodkaMass=[
         src: require('../img/persha.png'),
         text:"50мл - 38 грн",
     },
+    {
+        id:8,
+        title:"Горілка рада преміум (Україна) 0,7л",
+        price:"630 грн",
+        src: require('../img/rada.png'),
+        text:"50мл - 45 грн",
+    },
 ]
 
 export default VodkaMass;
