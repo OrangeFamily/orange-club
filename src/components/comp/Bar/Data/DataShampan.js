@@ -1,5 +1,12 @@
 const ShampanMass=[
     {
+        id:8,
+        title:"Моет і Шандон Імперіаль (Франція) ігр.,брют біле 0,75л",
+        price:"3000 грн",
+        src: require('../img/moet.png'),
+        text:"",
+    },
+    {
         id:1,
         title:"Terra Serena «Prosecco Frizante» (Італія) ігристе, біл./сух. 0,75л",
         price:"675 грн",
