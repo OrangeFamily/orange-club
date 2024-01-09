@@ -138,14 +138,14 @@ const ToBearMass=[
         id:20,
         title:"дошка під пиво 1000г",
         price:"350 грн",
-        src: require('../../../img/orangeLogo.png'),
+        src: require('../img/doskapodpivo.png'),
         text:"Orange chips, мюнхенські сухарики, печериці фрі, цибулеві кільця, картопля фрі",
     },
     {
         id:21,
         title:"дошка м'ясна 1500г",
         price:"690 грн",
-        src: require('../../../img/orangeLogo.png'),
+        src: require('../img/myasnadoska.png'),
         text:"ребра bbq, медові крильця, нагетси, мисливські ковбаски, мюнхенські ковбаски",
     },
 ]
