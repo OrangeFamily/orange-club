@@ -16,17 +16,19 @@ const TekilaMass=[
     {
         id:3,
         title:"Харана Бланко 100% Блакитна Агава (Мексика) 1л",
-        price:"1800 грн",
+        price:"1820 грн",
         src: require('../img/JaranaB.png'),
-        text:"50мл - 90 грн",
+        text:"50мл - 91 грн",
     },
     {
         id:4,
         title:"Харана Репосадо 100% Блакитна Агава (Мексика) 1л",
-        price:"1800 грн",
+        price:"1820 грн",
         src: require('../img/JaranaR.png'),
-        text:"50мл - 90 грн",
+        text:"50мл - 91 грн",
     },
+    
+    
 ]
 
 export default TekilaMass;

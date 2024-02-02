@@ -2,16 +2,16 @@ const WiskeyMass=[
     {
         id:1,
         title:"Гленморанджі Оріджинал, 10 уо (Шотландія) 1л",
-        price:"5400 грн",
+        price:"5420 грн",
         src: require('../img/glen.webp'),
-        text:"50мл - 270 грн",
+        text:"50мл - 271 грн",
     },
     {
         id:2,
         title:"Белл'с Оріджинал (Шотландія) 1л",
-        price:"1520 грн",
+        price:"1540 грн",
         src: require('../img/bels.webp'),
-        text:"50мл - 76 грн",
+        text:"50мл - 77 грн",
     },
     // {
     //     id:3,
@@ -30,38 +30,39 @@ const WiskeyMass=[
     {
         id:5,
         title:"Джек Деніелс Медовий (Теннессі) 1л",
-        price:"2400 грн",
+        price:"2420 грн",
         src: require('../img/jdh.webp'),
-        text:"50мл - 120 грн",
+        text:"50мл - 121 грн",
     },
     {
         id:6,
         title:"Сінглтон оф Даффтаун 12 YO (Шотландія) 1л",
-        price:"4600 грн",
+        price:"4620 грн",
         src:require('../img/singlton.png'),
-        text:"50мл - 230 грн",
+        text:"50мл - 231 грн",
     },
     {
         id:7,
         title:"Джонні Уокер Ред Лейбл (Шотландія) 1л",
-        price:"1780 грн",
+        price:"1800 грн",
         src:require('../img/label.png'),
-        text:"50мл - 89 грн",
+        text:"50мл - 90 грн",
     },
     {
         id:8,
         title:"Бурбон Буліт (США) 0,7л",
-        price:"1960 грн",
+        price:"1974 грн",
         src:require('../img/bulit.png'),
-        text:"50мл - 140 грн",
+        text:"50мл - 141 грн",
     },
     {
         id:9,
         title:"О'Браєн (Ірландія) 0,7л",
-        price:"1372 грн",
+        price:"1386 грн",
         src:require('../img/obrayen.png'),
-        text:"50мл - 98 грн",
+        text:"50мл - 99 грн",
     },
+    
 ]
 
 export default WiskeyMass;

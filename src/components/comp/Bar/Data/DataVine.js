@@ -1,24 +1,24 @@
 const VineMass=[
-//    {
+    //{
         //id:1,
         //title:"Echo Fals «White Zinfadel» (США) рожеве/напівсух. 0,75л",
         //price:"555 грн",
         //src: require('../img/echozin.webp'),
         //text:"100мл - 74грн",
-    //},
+   // },
     {
         id:2,
         title:"Sensi «Collezione Pinot Grigio» (Італія) біл./сух. 0,75л",
-        price:"600 грн",
+        price:"615 грн",
         src: require('../img/sensipino.png'),
-        text:"100мл - 80грн",
+        text:"100мл - 82грн",
     },
     {
         id:3,
         title:"Sensi Chianti «Dalcampo» (Італія) черв./сух. 0,75л",
-        price:"600 грн",
+        price:"615 грн",
         src: require('../img/sensidal.webp'),
-        text:"100мл - 80грн",
+        text:"100мл - 82грн",
     },
     // {
     //     id:4,
@@ -72,30 +72,30 @@ const VineMass=[
     {
         id:11,
         title:"Don Simon «Sauvignon Blanc» (Іспанія) біл./сух. 0,75л",
-        price:"450 грн",
+        price:"465 грн",
         src: require('../img/donbel.png'),
-        text:"100мл - 60грн",
+        text:"100мл - 62грн",
     },
     {
         id:12,
         title:"Don Simon «Cabernet Sauvignon» (Іспанія) черв./сух. 0,75л",
-        price:"450 грн",
+        price:"465 грн",
         src: require('../img/donkr.png'),
-        text:"100мл - 60грн",
+        text:"100мл - 62грн",
     },
     {
         id:13,
         title:"Don Simon white semi-sweet (Іспанія) біл./напівсол. 0,75л",
-        price:"450 грн",
+        price:"465 грн",
         src: require('../img/whitedon.png'),
-        text:"100мл - 60грн",
+        text:"100мл - 62грн",
     },
     {
         id:14,
         title:"Don Simon red semi-sweet (Іспанія) черв./напівсол. 0,75л",
-        price:"450 грн",
+        price:"465 грн",
         src: require('../img/reddon.png'),
-        text:"100мл - 60грн",
+        text:"100мл - 62грн",
     },
 ]
 

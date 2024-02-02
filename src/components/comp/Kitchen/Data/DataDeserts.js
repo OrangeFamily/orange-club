@@ -16,7 +16,7 @@ const DesertsMass=[
     {
         id:2,
         title:"чізкейк 150г",
-        price:"99 грн",
+        price:"114 грн",
         src: require('../img/chizcake.png'),
         text:"",
     },
@@ -30,7 +30,7 @@ const DesertsMass=[
     {
         id:4,
         title:"морозиво 100г",
-        price:"69 грн",
+        price:"84 грн",
         src: require('../img/icee.webp'),
         text:"пломбір, полуничне, шоколадне",
     },

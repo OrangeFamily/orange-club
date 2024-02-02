@@ -2,9 +2,9 @@ const RomMass=[
     {
         id:1,
         title:"Кептен Морган Оріджинал Спайсед Голд (Пуерто-Ріко) 1л",
-        price:"1800 грн",
+        price:"1820 грн",
         src: require('../img/kmg.webp'),
-        text:"50мл - 90 грн",
+        text:"50мл - 91 грн",
     },
     // {
     //     id:2,
@@ -16,16 +16,16 @@ const RomMass=[
     {
         id:3,
         title:"Кептен Морган Дарк (Ямайка) 1л",
-        price:"1840 грн",
+        price:"1860 грн",
         src: require('../img/kmd.webp'),
-        text:"50мл - 92 грн",
+        text:"50мл - 93 грн",
     },
     {
         id:4,
         title:"Кептен Морган Блек Спайсед (Ямайка) 1л",
-        price:"1960 грн",
+        price:"1980 грн",
         src: require('../img/kmgbs.png'),
-        text:"50мл - 98 грн",
+        text:"50мл - 99 грн",
     },
     
     

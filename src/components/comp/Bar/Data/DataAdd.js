@@ -42,6 +42,13 @@ const AddMass=[
         text:"",
     },
     {
+        id:8,
+        title:"Безлактозне молоко 0,050л",
+        price:"15 грн",
+        src: require('../img/milk.webp'),
+        text:"",
+    },
+    {
         id:7,
         title:"Вершки 0,025л",
         price:"15 грн",
