@@ -2,14 +2,14 @@ const GarnishMass=[
     {
         id:1,
         title:"Картопля фрі 130г/30г",
-        price:"94 грн",
+        price:"85 грн",
         src: require('../img/fri.webp'),
         text:"Картопля, кетчуп або майонез на вибір",
     },
     {
         id:2,
         title:"Картопля по-селянськи 130г/30г",
-        price:"94 грн",
+        price:"85 грн",
         src: require('../img/selo.webp'),
         text:"Картопля, часник, зелень, соус тар-тар",
     },
