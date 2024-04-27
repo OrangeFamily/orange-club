@@ -21,6 +21,13 @@ const VodkaMass=[
     //     text:"50мл - 38грн",
     // },
     {
+        id:9,
+        title:"Горілка Стерлінг (Шотландія) 1л",
+        price:"1500 грн",
+        src: require('../img/sterling.png'),
+        text:"50мл - 75 грн",
+    },
+    {
         id:4,
         title:"Коскенкорва (Фінляндія) 0,5л",
         price:"720 грн",
