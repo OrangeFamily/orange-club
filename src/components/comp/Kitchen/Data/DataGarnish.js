@@ -1,13 +1,33 @@
 const GarnishMass=[
     {
         id:1,
+        title:"спаржа з шинкою під сиром 250г",
+        price:"109 грн",
+        src: require('../img/spargasvet.png'),
+        text:"спаржа, шинка, сир гауда",
+    },
+    {
+        id:2,
+        title:"Корн Дог 400г/50г",
+        price:"189 грн",
+        src: require('../img/corndog.png'),
+        text:"Картопля фрі, сосиски, сирний соус",
+    },
+
+
+
+
+
+
+    {
+        id:3,
         title:"Картопля фрі 130г/30г",
         price:"85 грн",
         src: require('../img/fri.webp'),
         text:"Картопля, кетчуп або майонез на вибір",
     },
     {
-        id:2,
+        id:4,
         title:"Картопля по-селянськи 130г/30г",
         price:"85 грн",
         src: require('../img/selo.webp'),
@@ -21,14 +41,14 @@ const GarnishMass=[
         //text:"броколі, соєвий соус, сир моцарела",
     //},
     {
-        id:4,
+        id:5,
         title:"сковорідка спаржа під сиром 200г",
         price:"104 грн",
         src: require('../img/skovorspar.webp'),
         text:"спаржа, соєвий соус, сир моцарела",
     },
     {
-        id:5,
+        id:6,
         title:"овочі гриль 200г",
         price:"114 грн",
         src: require('../img/ovogril.webp'),
