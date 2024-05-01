@@ -27,14 +27,14 @@ const LemonadMass=[
     {
         id:4,
         title:"Маракуя суниця 450мл",
-        price:"??? грн",
+        price:"89 грн",
         src: require('../img/maracuyasun.png'),
         text:"сироп маракуя, сироп суниця, лимон, лимонний сік, мінеральна вода",
     },
     {
         id:5,
         title:"кавун-ківі 450мл",
-        price:"??? грн",
+        price:"89 грн",
         src: require('../img/kavunkiwi.png'),
         text:"сироп ківі, сироп кавун, м'ята, лимон, лимонний сік, 7up",
     },
@@ -42,14 +42,14 @@ const LemonadMass=[
     {
         id:6,
         title:"Огірково цитрусовий бабл 450мл",
-        price:"??? грн",
+        price:"89 грн",
         src: require('../img/ogirok.png'),
         text:"огірок, апельсин, медовий сироп, лимонний сік, 7up",
     },
     {
         id:7,
         title:"Чорниця мята 450мл",
-        price:"??? грн",
+        price:"89 грн",
         src: require('../img/chornicya.png'),
         text:"лимонний сік, чорниця, цукровий сироп, м1ята, 7up",
     },
