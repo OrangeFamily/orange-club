@@ -6,6 +6,20 @@ const EnergyMass=[
         src: require('../img/redbull.webp'),
         text:"",
     },
+    {
+        id:2,
+        title:"Red Bull tropical 0,25л",
+        price:"110 грн",
+        src: require('../img/rby.png'),
+        text:"",
+    },
+    {
+        id:3,
+        title:"Red Bull sugarfree 0,25л",
+        price:"110 грн",
+        src: require('../img/rbws.png'),
+        text:"",
+    },
     
 ]
 
