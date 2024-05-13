@@ -51,7 +51,7 @@ import BandaMass from './comp/Cocotail/Data/DataBanda';
 import ClasicMass from './comp/Cocotail/Data/DataClasic';
 // import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
 import JagerMass from './comp/Cocotail/Data/DataJager';
-import LemonadMass from './comp/Cocotail/Data/DataLemonad';
+//import LemonadMass from './comp/Cocotail/Data/DataLemonad';
 import MixDrinkMass from './comp/Cocotail/Data/DataMixDrink';
 import NonMass from './comp/Cocotail/Data/DataNon';
 import PartyMixMass from './comp/Cocotail/Data/DataPartyMix';
@@ -105,7 +105,7 @@ export const App = () => {
   // const dataColdTea = ColdTeaMass;
   const dataJager = JagerMass;
   const dataCorona = CoronaMass
-  const dataLemonad = LemonadMass;
+  //const dataLemonad = LemonadMass;
   const dataMixDrink = MixDrinkMass;
   const dataNon = NonMass;
   const dataPartyMzix = PartyMixMass;
