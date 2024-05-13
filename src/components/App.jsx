@@ -615,7 +615,7 @@ export const App = () => {
                         <Coffe data={dataColdTea} onModal={dataModal} />
                       </AccordionPanel>
                     </AccordionItem> */}
-                    <AccordionItem>
+                      {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           лимонади
@@ -624,7 +624,7 @@ export const App = () => {
                       <AccordionPanel>
                         <Coffe data={dataLemonad} onModal={dataModal} />
                       </AccordionPanel>
-                    </AccordionItem>
+                    </AccordionItem>*/}
                   </Accordion>
                   <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
                 </AccordionPanel>
