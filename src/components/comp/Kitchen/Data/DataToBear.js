@@ -6,13 +6,13 @@ const ToBearMass=[
         src:require('../img/munhenkovb.png'),
         text:"Ковбаски, чебрець, сосус гірчичний",
     },
-    {
-        id:2,
-        title:"Fish & Chips 300г/100г",
-        price:"194 грн",
-        src: require('../img/fishandchips.png'),
-        text:"Філе білої риби, темпура, картопля фрі, соус тар-тар, кетчуп, лимон",
-    },
+    //{
+        //id:4,
+        //title:"Fish & Chips 300г/100г",
+        //price:"194 грн",
+        //src: require('../img/fishandchips.png'),
+        //text:"Філе білої риби, темпура, картопля фрі, соус тар-тар, кетчуп, лимон",
+    //},
     {
         id:3,
         title:"Цибулеві кільця 150г/50г",
