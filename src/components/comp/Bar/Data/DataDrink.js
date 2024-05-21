@@ -50,7 +50,7 @@ const DrinkMass=[
     },
     {
         id:8,
-        title:"Пепсі 0.25 л",
+        title:"Пепсі 0.33л",
         price:"62 грн",
         src: require('../img/pepsi.webp'),
         text:"",
