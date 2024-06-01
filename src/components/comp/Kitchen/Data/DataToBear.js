@@ -2,6 +2,7 @@ const ToBearMass=[
     {
         id:1,
         title:"Корн Дог 400г/50г",
+        isNew: true,
         price:"189 грн",
         src: require('../img/corndog.png'),
         text:"Картопля фрі, сосиски, сирний соус",
@@ -164,14 +165,14 @@ const ToBearMass=[
     },
     {
         id:24,
-        title:"дошка під пиво 1000г",
+        title:"дошка під пиво 1000г/150г",
         price:"365 грн",
         src: require('../img/doskapodpivo.png'),
         text:"Orange chips, мюнхенські сухарики, печериці фрі, цибулеві кільця, картопля фрі",
     },
     {
         id:25,
-        title:"дошка м'ясна 1500г",
+        title:"дошка м'ясна 1200г/150г",
         price:"705 грн",
         src: require('../img/myasnadoska.png'),
         text:"ребра bbq, медові крильця, нагетси, мисливські ковбаски, мюнхенські ковбаски",
