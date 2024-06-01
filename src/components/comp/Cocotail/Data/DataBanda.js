@@ -2,6 +2,7 @@ const BandaMass=[
     {
         id:1,
         title:"Чіназез 450мл ",
+        isNew: true,
         price:"189 грн",
         src: require('../img/chinazez.png'),
         text:"ром золотий, егермайстер, кокосовий лікер, лимонний сік, вишневий сік",
@@ -9,6 +10,7 @@ const BandaMass=[
     {
         id:2,
         title:"Працьовитий ротик 200мл ",
+        isNew: true,
         price:"189 грн",
         src: require('../img/pracovrotik.png'),
         text:"текіла, сироп блю кюрасао, лікер блю кюрасао, бейліс, ананасовий сік",
@@ -16,13 +18,15 @@ const BandaMass=[
     {
         id:3,
         title:"Грінні 250мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/greeny.png'),
         text:"ром золотий, лікер амаретто, сік яблучний, лимонний сік",
     },
     {
         id:4,
-        title:"Джері 350мл ",
+        title:"Джеррі 350мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/jarry.png'),
         text:"вишневий лікер, горілка, сік грейпфрут, тонік",
@@ -30,6 +34,7 @@ const BandaMass=[
     {
         id:5,
         title:"Simba 350мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/simba.png'),
         text:"ром золотий, егермайстер, лікер банан, ванільний сироп, ананасовий сік",
@@ -37,6 +42,7 @@ const BandaMass=[
     {
         id:6,
         title:"Навколо світу 250мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/navkolosvitu.png'),
         text:"ром золотий, лікер апельсиновий, ангостура, ананасовий сироп, лимонний сік, апельсин, м'ята",
@@ -44,6 +50,7 @@ const BandaMass=[
     {
         id:7,
         title:"Pussy kiss 250мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/pussykiss.png'),
         text:"джин, вишневий лікер, полуничний сироп, ананасовий сік",
@@ -51,6 +58,7 @@ const BandaMass=[
     {
         id:8,
         title:"Summer kiss 250мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/summerkiss.png'),
         text:"текіла, апероль, полуничний сироп, лимонний сік, ізі фом",
@@ -58,6 +66,7 @@ const BandaMass=[
     {
         id:9,
         title:"Фієста 350мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/fiesta.png'),
         text:"золотий ром, джин оранж, лікер амаретто, лікер кокос, ананасовий сік, лимонний сік",
@@ -83,13 +92,13 @@ const BandaMass=[
     //     src: require('../img/elj.webp'),
     //     text:"ром золотий, горілка, н/к «Limonchella», сироп персиковий, сік ананасовий",
     // },
-    // {
-    //     id:10,
-    //     title:"cherry sour 250мл ",
-    //     price:"165 грн",
-    //     src: require('../img/cherysour.png'),
-    //     text:"егермайстер, сік лимона, сироп вишневий, ізі фом",
-    // },
+    {
+        id:10,
+        title:"cherry sour 250мл ",
+        price:"165 грн",
+        src: require('../img/cherysour.png'),
+        text:"егермайстер, сік лимона, сироп вишневий, ізі фом",
+    },
     {
         id:11,
         title:"Файний джин 250мл cherysour",
@@ -105,13 +114,13 @@ const BandaMass=[
         src: require('../img/pekelnamala.png'),
         text:"гордон`c середземноморський апельсин, лимонний сік, сироп гренадін",
     },
-    {
-        id:13,
-        title:"Бабуся не проти 350мл",
-        price:"155 грн",
-        src: require('../img/granma.webp'),
-        text:"горілка, н/к «Currant», тонік, сік вишневий, сік лимонний",
-    },
+    //{
+        //id:13,
+        //title:"Бабуся не проти 350мл",
+        //price:"155 грн",
+        //src: require('../img/granma.webp'),
+        //text:"горілка, н/к «Currant», тонік, сік вишневий, сік лимонний",
+    //},
     {
         id:14,
         title:"Німецька ніч 350мл",
@@ -133,13 +142,13 @@ const BandaMass=[
         src: require('../img/azia.webp'),
         text:"горілка, ром золотий, джин, лікер диня, сік лимона, 7up",
     },
-    {
-        id:17,
-        title:"Jager Coffe 120мл",
-        price:"165 грн",
-        src: require('../img/jagcof.webp'),
-        text:"горілка, jagermaister, кавовий лікер, сироп грінадін",
-    },
+   // {
+    //    id:17,
+      //  title:"Jager Coffe 120мл",
+      //  price:"165 грн",
+      //  src: require('../img/jagcof.webp'),
+     //   text:"горілка, jagermaister, кавовий лікер, сироп грінадін",
+   // },
     
     {
         id:18,

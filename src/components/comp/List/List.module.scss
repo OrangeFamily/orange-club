@@ -1,5 +1,6 @@
 .sizeImg{
     width: 120px;
+    
     margin-right: 15px;
     @media (min-width: 320px) and (max-width: 480px) {
     width: 70px;
@@ -48,7 +49,7 @@
     text-transform: uppercase;
     @media (min-width: 320px) and (max-width: 480px) {
         font-size: 11px;
-        width: 160px;
+        width: 320px;
       }
 }
 .price{
@@ -67,3 +68,14 @@
 p{
     margin: 7px 0;
 }
+.newWord{
+    background-color: rgb(255 106 0);
+    color: white;
+    border-radius: 15px;
+    margin-left: 15px;
+    padding: 5px 20px;
+    @media (min-width: 320px) and (max-width: 480px) {
+        padding: 1px 10px;
+        font-size: 10px;
+      }
+  }

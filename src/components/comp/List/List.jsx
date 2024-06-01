@@ -9,7 +9,7 @@ import s from './List.module.scss'
       className={s.item}
     ><img src={e.src} alt="" className={s.sizeImg} />
       <div>
-        <div className={s.itemMain}><h3 className={s.title}>{e.title}</h3>
+        <div className={s.itemMain}><h3 className={s.title}>{e.title}{e.isNew ? <span className={s.newWord}>NEW</span> : null}</h3>
 
         <h3 className={s.price}>{e.price}</h3></div>
         
