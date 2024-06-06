@@ -15,7 +15,7 @@ const DesertsMass=[
     // },
     {
         id:2,
-        title:"чізкейк 150г",
+        title:"Фірмовий чізкейк Оранж 150г",
         price:"114 грн",
         src: require('../img/chizcake.png'),
         text:"",

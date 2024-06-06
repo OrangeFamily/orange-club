@@ -49,7 +49,8 @@
     text-transform: uppercase;
     @media (min-width: 320px) and (max-width: 480px) {
         font-size: 11px;
-        width: 320px;
+        width: 150px;
+        line-height: 15px;
       }
 }
 .price{

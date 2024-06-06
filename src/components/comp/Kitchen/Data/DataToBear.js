@@ -11,7 +11,7 @@ const ToBearMass=[
         id:2,
         title:"бастурма 50г",
         price:"85 грн",
-        src: '',
+        src: require('../img/basturma.png'),
         text:"",
     },
     {
