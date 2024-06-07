@@ -1,5 +1,13 @@
 const SaladsMass=[
     {
+        id:13,
+        title:"Салат з куркою та ананасом 250г",
+        isNew: true,
+        price:"189 грн",
+        src:require('../img/salchikananas.png'),
+        text:"лист салату, помідор чері, куряче філе, ананас, фета, оливкова олія, гірчиця по-французьки",
+    },
+    {
         id:1,
         title:"Теплий салат 250г",
         isNew: true,
