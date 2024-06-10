@@ -41,13 +41,13 @@ const VodkaMass=[
         //src: require('../img/kosk.png'),
         //text:"50мл - 70 грн",
    // },
-    {
-        id:6,
-        title:"Смірнофф Ред №21 (Великобританія) 0,5л",
-        price:"620 грн",
-        src: require('../img/smirnoff.png'),
-        text:"50мл - 62 грн",
-    },
+    //{
+        //id:6,
+        //title:"Смірнофф Ред №21 (Великобританія) 0,5л",
+        //price:"620 грн",
+        //src: require('../img/smirnoff.png'),
+        //text:"50мл - 62 грн",
+    //},
     {
         id:7,
         title:"Перша Гільдія Поважна (Україна) 0,5л",
