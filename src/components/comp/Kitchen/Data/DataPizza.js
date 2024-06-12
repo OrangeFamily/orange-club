@@ -86,7 +86,7 @@ const PizzaMass=[
     {
         id:7,
         title:"Піца з лососем 450г/900г",
-        price:"245грн/265грн",
+        price:"265грн/365грн",
         src: require('../img/red-fishpizza.webp'),
         text:"вершковий соус, лосось, моцарелла, маслини, пармезан",
     },
