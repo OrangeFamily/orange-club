@@ -23,7 +23,7 @@ const AssortiMass=[
     {
         id:2,
         title:"тарілка під пиво 150г",
-        price:"214 грн",
+        price:"234 грн",
         src:require('../img/myastar.png'),
         text:"курка в'ялена, свинина в'ялена, сушена яловичина",
     },
@@ -31,21 +31,21 @@ const AssortiMass=[
     {
         id:3,
         title:"тарілка під горілку 150г/30г",
-        price:"174 грн",
+        price:"185 грн",
         src:require('../img/tovodka.webp'),
         text:"сало, підчеревок, корнішони, гірчиця",
     },
     {
         id:4,
         title:"сирна тарілка 200г/30г",
-        price:"245 грн",
+        price:"259 грн",
         src:require('../img/tarelkachees.webp'),
         text:"гауда, пармезан, брі, дорблю, мед",
     },
     {
         id:5,
         title:"фруктова тарілка 480г",
-        price:"220 грн",
+        price:"230 грн",
         src:require('../img/fruttar.webp'),
         text:"Апельсин, грейпфрут, виноград, ківі, яблоко, мараскінова вишня",
     },

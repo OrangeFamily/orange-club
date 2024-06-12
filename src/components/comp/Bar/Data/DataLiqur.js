@@ -2,9 +2,9 @@ const LiqurMass=[
     {
         id:1,
         title:"Бейліс Оріджинал (Ірландія) 1л",
-        price:"1640 грн",
+        price:"1700 грн",
         src: require('../img/bail.webp'),
-        text:"50мл - 82грн",
+        text:"50мл - 85грн",
     },
     {
         id:2,

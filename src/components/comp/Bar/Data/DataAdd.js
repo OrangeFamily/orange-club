@@ -23,21 +23,21 @@ const AddMass=[
     {
         id:4,
         title:"Вишня мараскинова 1шт.",
-        price:"12 грн",
+        price:"15 грн",
         src: require('../img/cherry.webp'),
         text:"",
     },
     {
         id:5,
         title:"Мед 0,025л",
-        price:"20 грн",
+        price:"25 грн",
         src: require('../img/med.webp'),
         text:"",
     },
     {
         id:6,
         title:"Молоко 0,050л",
-        price:"10 грн",
+        price:"15 грн",
         src: require('../img/milk.webp'),
         text:"",
     },
@@ -51,7 +51,7 @@ const AddMass=[
     {
         id:7,
         title:"Вершки 0,025л",
-        price:"15 грн",
+        price:"20 грн",
         src: require('../img/cream.webp'),
         text:"",
     },

@@ -3,7 +3,7 @@ const ToBearMass=[
         id:1,
         title:"Корн Дог 400г/50г",
         isNew: true,
-        price:"189 грн",
+        price:"199 грн",
         src: require('../img/corndog.png'),
         text:"Картопля фрі, сосиски, сирний соус",
     },
@@ -24,7 +24,7 @@ const ToBearMass=[
     {
         id:4,
         title:"Мюнхенські ковбаски 220г/50г",
-        price:"140 грн",
+        price:"149 грн",
         src:require('../img/munhenkovb.png'),
         text:"Ковбаски, чебрець, соус гірчичний",
     },
@@ -38,7 +38,7 @@ const ToBearMass=[
     {
         id:6,
         title:"Цибулеві кільця 150г/50г",
-        price:"104 грн",
+        price:"109 грн",
         src: require('../img/lukkolca.png'),
         text:"Цибуля, паніровка, соус часниковий",
     },
@@ -96,7 +96,7 @@ const ToBearMass=[
     {
         id:14,
         title:"Фірмові нагетси 150г/50г",
-        price:"125 грн",
+        price:"139 грн",
         src: require('../img/naget.webp'),
         text:"куряче філе в паніровці, медово - гірчичний соус",
     },
@@ -124,7 +124,7 @@ const ToBearMass=[
     {
         id:18,
         title:"Медові крильця 350г",
-        price:"154 грн",
+        price:"159 грн",
         src: require('../img/fly.webp'),
         text:"крильця, медово-соєвий соус, кунжут",
     },
@@ -138,7 +138,7 @@ const ToBearMass=[
     {
         id:20,
         title:"Сир фрі 220г/50г",
-        price:"104 грн",
+        price:"109 грн",
         src: require('../img/cheesbeer.webp'),
         text:"сир гауда, паніровка, часничний соус",
     },
