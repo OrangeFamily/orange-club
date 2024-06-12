@@ -3,7 +3,7 @@ const GarnishMass=[
         id:1,
         title:"спаржа з шинкою під сиром 250г",
         isNew: true,
-        price:"109 грн",
+        price:"115 грн",
         src: require('../img/spargasvet.png'),
         text:"спаржа, шинка, сир гауда",
     },
