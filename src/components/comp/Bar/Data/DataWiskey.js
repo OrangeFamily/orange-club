@@ -6,13 +6,13 @@ const WiskeyMass=[
         src: require('../img/glen.webp'),
         text:"50мл - 271 грн",
     },
-    // {
-    //     id:2,
-    //     title:"Віскі чівас 12 років (Шотландія) 1л",
-    //     price:"2400 грн",
-    //     src: require('../img/chivas.png'),
-    //     text:"50мл - 210 грн",
-    // },
+    {
+        id:2,
+        title:"Віскі чівас 12 років (Шотландія) 1л",
+        price:"2400 грн",
+        src: require('../img/chivas.png'),
+        text:"50мл - 210 грн",
+    },
     {
         id:3,
         title:"Белл'с Оріджинал (Шотландія) 1л",
