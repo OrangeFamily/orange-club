@@ -90,6 +90,13 @@ const  NonMass=[
         src: require('../img/vankaramel.png'),
         text:"сироп ванільний, сироп карамель, молоко, морозиво",
     },
+    {
+        id:14,
+        title:"Джин-тонік б/а 250мл",
+        price:"120 грн",
+        src: require('../img/ton.webp'),
+        text:"джин 0.0, тонік, лимон",
+    },
 ]
 
 export default NonMass;
