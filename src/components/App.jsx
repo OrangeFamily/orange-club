@@ -39,6 +39,8 @@ import EnergyMass from './comp/Bar/Data/DataEnergy';
 import AddMass from './comp/Bar/Data/DataAdd';
 import FirstMass from './comp/Kitchen/Data/DataFirst';
 import MainMass from './comp/Kitchen/Data/DataMain';
+import PetelnaMass from './comp/Kitchen/Data/DataPetelna';
+import PastaMass from './comp/Kitchen/Data/DataPasta';
 import SousMass from './comp/Kitchen/Data/DataSous';
 import GarnishMass from './comp/Kitchen/Data/DataGarnish';
 import ToBearMass from './comp/Kitchen/Data/DataToBear';
@@ -72,6 +74,9 @@ export const App = () => {
   const dataHot = HotMass;
   const dataFirst = FirstMass;
   const dataMain = MainMass;
+  
+  const dataPasta = PastaMass;
+  const dataPetelna = PetelnaMass;
   const dataSous = SousMass;
   const dataGarnish = GarnishMass;
   const dataToBear = ToBearMass;
@@ -216,6 +221,26 @@ export const App = () => {
                       <List data={dataMain} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Пасти
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataPasta} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Петельні
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataPetelna} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
                   {/* <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
@@ -602,7 +627,7 @@ export const App = () => {
                         </AccordionButton>
                       </h2>
                       <AccordionPanel>
-                        <Coffe data={dataPartyMzix} onModal={dataModal} />
+                        <List data={dataPartyMzix} onModal={dataModal} />
                       </AccordionPanel>
                     </AccordionItem>
                     {/* <AccordionItem>
