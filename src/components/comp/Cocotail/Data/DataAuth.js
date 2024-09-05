@@ -59,14 +59,14 @@ const AuthMass=[
     {
         id:9,
         title:"Ginny Bull 450мл",
-        price:"150 грн",
+        price:"199 грн",
         src: require('../img/tropic.png'),
         text:"джин гордонс, сироп бузина, ред бул тропічний",
     },
     {
         id:10,
         title:"Tropical Hurricane 450мл",
-        price:"150 грн",
+        price:"199 грн",
         src: require('../img/tropic.png'),
         text:"ром золотий, лікер кокосовий, сироп ананасовий, ред бул тропічний",
     },
