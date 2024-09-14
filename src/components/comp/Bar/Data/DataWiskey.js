@@ -9,7 +9,7 @@ const WiskeyMass=[
     {
         id:2,
         title:"Віскі чівас 12 років (Шотландія) 1л",
-        price:"2400 грн",
+        price:"4200 грн",
         src: require('../img/chivas.png'),
         text:"50мл - 210 грн",
     },
