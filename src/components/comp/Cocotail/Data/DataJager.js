@@ -10,7 +10,7 @@ const JagerMass=[
         id:1,
         title:"акція Єгермайстер 1+1",
         price:"150 грн",
-        src: require('../img/jager.webp'),
+        src: require('../../Bar/img/jager.webp'),
         text:"",
     },
     {
