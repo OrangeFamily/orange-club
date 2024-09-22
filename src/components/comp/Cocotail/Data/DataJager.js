@@ -6,13 +6,13 @@ const JagerMass=[
         //src: require('../../../img/orangeLogo.png'),
         //text:"Jägermeister",
     //},
-    {
-        id:1,
-        title:"акція Єгермайстер 1+1",
-        price:"150 грн",
-        src: require('../../Bar/img/jager.webp'),
-        text:"",
-    },
+    // {
+    //     id:1,
+    //     title:"акція Єгермайстер 1+1",
+    //     price:"150 грн",
+    //     src: require('../../Bar/img/jager.webp'),
+    //     text:"",
+    // },
     {
         id:2,
         title:"Jager-Tonic 200мл",

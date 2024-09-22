@@ -13,13 +13,13 @@ const ShotMass=[
         src: require('../img/jager.webp'),
         text:"",
     },
-    {
-        id:3,
-        title:"акція Єгермайстер 1+1",
-        price:"150 грн",
-        src: require('../img/jager.webp'),
-        text:"",
-    },
+    // {
+    //     id:3,
+    //     title:"акція Єгермайстер 1+1",
+    //     price:"150 грн",
+    //     src: require('../img/jager.webp'),
+    //     text:"",
+    // },
     
 ]
 
