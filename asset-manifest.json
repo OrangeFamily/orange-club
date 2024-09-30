@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/orange-club/static/css/main.08f2422a.css",
-    "main.js": "/orange-club/static/js/main.2750bd77.js",
+    "main.css": "/orange-club/static/css/main.86c85c94.css",
+    "main.js": "/orange-club/static/js/main.769bc752.js",
     "static/media/bbq.png": "/orange-club/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-club/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/salatproshuto.png": "/orange-club/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
@@ -28,10 +28,7 @@
     "static/media/partybells.png": "/orange-club/static/media/partybells.f41f8705796434c37f75.png",
     "static/media/mushpizza.png": "/orange-club/static/media/mushpizza.c09b3b86aca1d505aa5b.png",
     "static/media/skovormidii.png": "/orange-club/static/media/skovormidii.c5d117a6be668d8bc9f6.png",
-    "static/media/vyalsv.png": "/orange-club/static/media/vyalsv.48bf183cd7139d1d29dc.png",
     "static/media/lukkolca.png": "/orange-club/static/media/lukkolca.5c3e1c912df98dac08d5.png",
-    "static/media/myastar.png": "/orange-club/static/media/myastar.f10e39da7efd55ba832e.png",
-    "static/media/vyalgov.png": "/orange-club/static/media/vyalgov.bf21578560d2ebf7abc7.png",
     "static/media/greeny.png": "/orange-club/static/media/greeny.e827536877c39d490ae0.png",
     "static/media/fiesta.png": "/orange-club/static/media/fiesta.bd89d87b9943cfdc0f5e.png",
     "static/media/fiat.png": "/orange-club/static/media/fiat.c893d9a46fb81dace121.png",
@@ -238,11 +235,11 @@
     "static/media/fragolinor.webp": "/orange-club/static/media/fragolinor.bee0c14e1e773298fd5a.webp",
     "static/media/campary.webp": "/orange-club/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-club/index.html",
-    "main.08f2422a.css.map": "/orange-club/static/css/main.08f2422a.css.map",
-    "main.2750bd77.js.map": "/orange-club/static/js/main.2750bd77.js.map"
+    "main.86c85c94.css.map": "/orange-club/static/css/main.86c85c94.css.map",
+    "main.769bc752.js.map": "/orange-club/static/js/main.769bc752.js.map"
   },
   "entrypoints": [
-    "static/css/main.08f2422a.css",
-    "static/js/main.2750bd77.js"
+    "static/css/main.86c85c94.css",
+    "static/js/main.769bc752.js"
   ]
 }
