@@ -16,7 +16,7 @@ import { List } from './comp/List/List';
 // import BurgerMass from './comp/Kitchen/Data/DataBurg';
 import AssortiMass from './comp/Kitchen/Data/DataAssorti';
 import SaladsMass from './comp/Kitchen/Data/DataSalads';
-import HotMass from './comp/Kitchen/Data/DataHot';
+// import HotMass from './comp/Kitchen/Data/DataHot';
 
 import AperetivMass from './comp/Bar/Data/DataAperetiv';
 // import NarCoctMass from './comp/Bar/Data/DataNarCoct';
@@ -44,7 +44,7 @@ import PastaMass from './comp/Kitchen/Data/DataPasta';
 import SousMass from './comp/Kitchen/Data/DataSous';
 import GarnishMass from './comp/Kitchen/Data/DataGarnish';
 import ToBearMass from './comp/Kitchen/Data/DataToBear';
-import PizzaMass from './comp/Kitchen/Data/DataPizza';
+// import PizzaMass from './comp/Kitchen/Data/DataPizza';
 import AdditivesMass from './comp/Kitchen/Data/DataAdd';
 import DesertsMass from './comp/Kitchen/Data/DataDeserts';
 import { Coffe } from './comp/Bar/List/List';
@@ -71,7 +71,7 @@ export const App = () => {
   // const dataBurgers = BurgerMass;
   const dataAssorti = AssortiMass
   const dataSalads = SaladsMass;
-  const dataHot = HotMass;
+  // const dataHot = HotMass;
   const dataFirst = FirstMass;
   const dataMain = MainMass;
   
@@ -80,7 +80,7 @@ export const App = () => {
   const dataSous = SousMass;
   const dataGarnish = GarnishMass;
   const dataToBear = ToBearMass;
-  const dataPizza = PizzaMass;
+  // const dataPizza = PizzaMass;
   const dataKitAdd = AdditivesMass;
   const dataDeserts = DesertsMass;
 
@@ -201,7 +201,7 @@ export const App = () => {
                       <List data={dataFirst} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
-                  <AccordionItem>
+                  {/* <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
                         Гарячі закуски
@@ -210,7 +210,7 @@ export const App = () => {
                     <AccordionPanel>
                       <List data={dataHot} onModal={dataModal} />
                     </AccordionPanel>
-                  </AccordionItem>
+                  </AccordionItem> */}
                   <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
@@ -251,7 +251,7 @@ export const App = () => {
                       <List data={dataBurgers} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem> */}
-                  <AccordionItem>
+                  {/* <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
                         піца
@@ -260,7 +260,7 @@ export const App = () => {
                     <AccordionPanel>
                       <List data={dataPizza} onModal={dataModal} />
                     </AccordionPanel>
-                  </AccordionItem>
+                  </AccordionItem> */}
                   <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
