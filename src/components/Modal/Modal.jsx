@@ -22,7 +22,7 @@ export const Modal = ({ objectModal, toggleModal }) => {
         <h2 className={s.itemTitle}>{objectModal.title}</h2>
         <h3 className={s.itemTitle}>{objectModal.price}</h3>
         <div className={s.itemText}>{objectModal.text}</div>
-        <img src={objectModal.src} alt="" />
+        <img src={objectModal.src} alt=""  className={s.imgSize}/>
       </div>
     </div>
   );
