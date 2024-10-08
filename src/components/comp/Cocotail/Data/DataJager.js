@@ -16,14 +16,14 @@ const JagerMass=[
     {
         id:2,
         title:"Jager-Tonic 200мл",
-        price:"149 грн",
+        price:"150 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"Jägermeister, тонік",
     },
     {
         id:3,
         title:"Jager-Cherry 200мл",
-        price:"149 грн",
+        price:"150 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"Jägermeister, вишневий сік",
     },
