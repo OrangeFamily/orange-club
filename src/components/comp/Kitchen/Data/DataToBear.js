@@ -5,7 +5,7 @@ const ToBearMass=[
         isNew: true,
         price:"199 грн",
         src: require('../img/corndog.png'),
-        text:"Картопля фрі, сосиски, сирний соус",
+        text:"Картопля фрі, сосиски, кетчуп, солодкий чілі соус",
     },
     {
         id:2,
