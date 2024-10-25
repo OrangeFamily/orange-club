@@ -17,7 +17,7 @@ const ToBearMass=[
     {
         id:3,
         title:"фісташки 50г",
-        price:"80 грн",
+        price:"90 грн",
         src: require('../img/fist.png'),
         text:"",
     },
