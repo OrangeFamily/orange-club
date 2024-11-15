@@ -70,6 +70,13 @@ const WiskeyMass=[
         text:"50мл - 90 грн",
     },
     {
+        id:10,
+        title:"Джонні Уокер Блек Лейбл (Шотландія) 1л",
+        price:"3200 грн",
+        src:require('../img/blacklabel.png'),
+        text:"50мл - 160 грн",
+    },
+    {
         id:8,
         title:"Бурбон Буліт (США) 0,7л",
         price:"2030 грн",
