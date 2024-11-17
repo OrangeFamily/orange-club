@@ -234,7 +234,7 @@ export const App = () => {
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
-                          Петельні
+                        Пательні
                         </AccordionButton>
                       </h2>
                       <AccordionPanel>
