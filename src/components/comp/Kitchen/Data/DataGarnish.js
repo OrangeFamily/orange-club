@@ -40,7 +40,7 @@ const GarnishMass=[
         title:"сковорідка спаржа під сиром 200г",
         price:"104 грн",
         src: require('../img/skovorspar.webp'),
-        text:"спаржа, соєвий соус, сир моцарела",
+        text:"спаржа, соєвий соус, сир гауда",
     },
     {
         id:6,
