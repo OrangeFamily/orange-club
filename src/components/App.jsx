@@ -52,13 +52,13 @@ import AuthMass from './comp/Cocotail/Data/DataAuth';
 import BandaMass from './comp/Cocotail/Data/DataBanda';
 import ClasicMass from './comp/Cocotail/Data/DataClasic';
 // import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
-import JagerMass from './comp/Cocotail/Data/DataJager';
+// import JagerMass from './comp/Cocotail/Data/DataJager';
 //import LemonadMass from './comp/Cocotail/Data/DataLemonad';
-import MixDrinkMass from './comp/Cocotail/Data/DataMixDrink';
+// import MixDrinkMass from './comp/Cocotail/Data/DataMixDrink';
 import NonMass from './comp/Cocotail/Data/DataNon';
 import PartyMixMass from './comp/Cocotail/Data/DataPartyMix';
 import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
-import CoronaMass from './comp/Cocotail/Data/DataCorona';
+// import CoronaMass from './comp/Cocotail/Data/DataCorona';
 // import eger from './img/norm.jpg'
 // import egerakc from './img/akc.jpg'
 
@@ -108,10 +108,10 @@ export const App = () => {
   const dataBanda = BandaMass;
   const dataClasic = ClasicMass;
   // const dataColdTea = ColdTeaMass;
-  const dataJager = JagerMass;
-  const dataCorona = CoronaMass
+  // const dataJager = JagerMass;
+  // const dataCorona = CoronaMass
   //const dataLemonad = LemonadMass;
-  const dataMixDrink = MixDrinkMass;
+  // const dataMixDrink = MixDrinkMass;
   const dataNon = NonMass;
   const dataPartyMzix = PartyMixMass;
   const dataShotDrink = ShotDrinkMass;
@@ -590,7 +590,7 @@ export const App = () => {
                         <List data={dataShotDrink} onModal={dataModal} />
                       </AccordionPanel>
                     </AccordionItem>
-                    <AccordionItem>
+                   {/*  <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           jagermeister
@@ -609,8 +609,8 @@ export const App = () => {
                         <AccordionPanel>
                           <Coffe data={dataCorona} onModal={dataModal} />
                         </AccordionPanel>
-                      </AccordionItem>
-                    <AccordionItem>
+                      </AccordionItem>*/}
+                   {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           mix drinks
@@ -619,7 +619,7 @@ export const App = () => {
                       <AccordionPanel>
                         <Coffe data={dataMixDrink} onModal={dataModal} />
                       </AccordionPanel>
-                    </AccordionItem>
+                    </AccordionItem>*/}
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
