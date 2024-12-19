@@ -97,6 +97,17 @@ const  NonMass=[
         src: require('../img/ton.webp'),
         text:"джин 0.0, тонік, лимон",
     },
+    {
+        id:15,
+        title:"Б/а глінтвейн 300мл",
+        price:"99 грн",
+        src: require('../img/glintChervoniy.png'),
+        text:`Сік вишня, 
+Сироп кориця,
+Спеції,
+Лимон,
+Апельсин`,
+    },
 ]
 
 export default NonMass;

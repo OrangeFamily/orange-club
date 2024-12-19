@@ -38,23 +38,23 @@ const ShampanMass=[
     {
         id:5,
         title:"Маренго брют (Україна) сух./біл. 0,75л",
-        price:"355 грн",
+        price:"375 грн",
         src: require('../img/marengob.webp'),
-        text:"100мл - 46 грн",
+        text:"100мл - 50 грн",
     },
     {
         id:6,
         title:"Маренго біле солодке (Україна) сол./біл. 0,75л",
-        price:"355 грн",
+        price:"375 грн",
         src: require('../img/marengos.webp'),
-        text:"100мл - 46 грн",
+        text:"100мл - 50 грн",
     },
     {
         id:7,
         title:"Маренго рожеве напівсолодке (Україна) напівсол./рож. 0,75л",
-        price:"355 грн",
+        price:"375 грн",
         src: require('../img/mangor.png'),
-        text:"100мл - 46 грн",
+        text:"100мл - 50 грн",
     },
     
     

@@ -73,7 +73,7 @@ const AuthMass=[
     {
         id:11,
         title:"Файний джин 250мл",
-        price:"160 грн",
+        price:"179 грн",
         src: require('../img/fayniyjin.png'),
         text:"гордон`c середземноморський апельсин, тонік, апельсин",
     },
