@@ -2,14 +2,14 @@ const ShotMass=[
     {
         id:1,
         title:"Єгермайстер (Германія) 1л",
-        price:"1900 грн",
+        price:"2000 грн",
         src: require('../img/jager.webp'),
-        text:"50мл - 95грн",
+        text:"50мл - 100грн",
     },
     {
         id:2,
         title:"Єгермайстер (Германія) 0,5л",
-        price:"950 грн",
+        price:"1000 грн",
         src: require('../img/jager.webp'),
         text:"",
     },
