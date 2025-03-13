@@ -9,9 +9,9 @@ const VineMass=[
     {
         id:2,
         title:"Sensi «Collezione Pinot Grigio» (Італія) біл./сух. 0,75л",
-        price:"615 грн",
+        price:"675 грн",
         src: require('../img/sensipino.png'),
-        text:"100мл - 82грн",
+        text:"100мл - 90 грн",
     },
     {
         id:3,

@@ -2,9 +2,9 @@ const WiskeyMass=[
     {
         id:1,
         title:"Гленморанджі Оріджинал, 10 уо (Шотландія) 1л",
-        price:"5420 грн",
+        price:"5700 грн",
         src: require('../img/glen.webp'),
-        text:"50мл - 271 грн",
+        text:"50мл - 285 грн",
     },
     {
         id:2,
@@ -86,9 +86,9 @@ const WiskeyMass=[
     {
         id:9,
         title:"О'Браєн (Ірландія) 0,7л",
-        price:"1400 грн",
+        price:"1540 грн",
         src:require('../img/obrayen.png'),
-        text:"50мл - 100 грн",
+        text:"50мл - 110 грн",
     },
     
 ]
