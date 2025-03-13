@@ -2,7 +2,7 @@ const AuthMass=[
     {
         id:1,
         title:"Оргазм Тарзана 350мл",
-        price:"170 грн",
+        price:"185 грн",
         src: require('../img/org.webp'),
         text:"горілка, лікер динний, сироп блю кюрасао, сік ананасовий",
     },
@@ -34,13 +34,13 @@ const AuthMass=[
     //     src: require('../img/smer.webp'),
     //     text:"абсент, горілка, лікер м’ятний, тонік, лимнонний фреш",
     // },
-    // {
-    //     id:6,
-    //     title:"Cherry Valley 350мл",
-    //     price:"150 грн",
-    //     src: require('../img/granma.webp'),
-    //     text:"горілка, сік вишневий, морс із журавлини, сироп гранатовий, тонік",
-    // },
+    {
+        id:6,
+        title:"Cherry Valley 350мл",
+        price:"180 грн",
+        src: require('../img/granma.webp'),
+        text:"горілка, сік вишневий, морс із журавлини, сироп гранатовий, тонік",
+    },
     
     {
         id:7,
@@ -66,7 +66,7 @@ const AuthMass=[
     {
         id:10,
         title:"Tropical Hurricane 450мл",
-        price:"200 грн",
+        price:"210 грн",
         src: require('../img/tropic.png'),
         text:"ром золотий, лікер кокосовий, сироп ананасовий, ред бул тропічний",
     },
