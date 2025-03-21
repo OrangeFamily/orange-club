@@ -2,7 +2,7 @@ const PetelnaMass=[
     {
         id:14,
         title:"пательня з морепродуктами 300г",
-        price:"269 грн",
+        price:"310 грн",
         src:require('../img/skovormore.png'),
         text:"кальмар, мідії, креветка, соєвий соус, сметана, цибуля, часник",
     },

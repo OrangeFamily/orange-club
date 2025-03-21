@@ -24,7 +24,7 @@ const GarnishMass=[
     {
         id:4,
         title:"Картопля по-селянськи 130г/30г",
-        price:"85 грн",
+        price:"105 грн",
         src: require('../img/selo.webp'),
         text:"Картопля, часник, зелень, соус тар-тар",
     },
