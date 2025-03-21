@@ -16,7 +16,7 @@ import { List } from './comp/List/List';
 // import BurgerMass from './comp/Kitchen/Data/DataBurg';
 import AssortiMass from './comp/Kitchen/Data/DataAssorti';
 import SaladsMass from './comp/Kitchen/Data/DataSalads';
-// import HotMass from './comp/Kitchen/Data/DataHot';
+import HotMass from './comp/Kitchen/Data/DataHot';
 
 import AperetivMass from './comp/Bar/Data/DataAperetiv';
 // import NarCoctMass from './comp/Bar/Data/DataNarCoct';
@@ -71,7 +71,7 @@ export const App = () => {
   // const dataBurgers = BurgerMass;
   const dataAssorti = AssortiMass
   const dataSalads = SaladsMass;
-  // const dataHot = HotMass;
+  const dataHot = HotMass;
   const dataFirst = FirstMass;
   const dataMain = MainMass;
   
@@ -201,7 +201,7 @@ export const App = () => {
                       <List data={dataFirst} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
-                  {/* <AccordionItem>
+                  <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
                         Гарячі закуски
@@ -210,7 +210,7 @@ export const App = () => {
                     <AccordionPanel>
                       <List data={dataHot} onModal={dataModal} />
                     </AccordionPanel>
-                  </AccordionItem> */}
+                  </AccordionItem>
                   <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>

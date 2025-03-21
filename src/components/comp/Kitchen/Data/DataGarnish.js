@@ -17,7 +17,7 @@ const GarnishMass=[
     {
         id:3,
         title:"Картопля фрі 130г/30г",
-        price:"85 грн",
+        price:"105 грн",
         src: require('../img/fri.webp'),
         text:"Картопля, кетчуп або майонез на вибір",
     },
@@ -46,8 +46,8 @@ const GarnishMass=[
         id:6,
         title:"овочі гриль 200г",
         price:"114 грн",
-        src: require('../img/ovogril.webp'),
-        text:"цукіні, помідор, печериці, перець болгарський, соєвий соус",
+        src: require('../img/ovogril.png'),
+        text:"кукуруза, помідор, печериці, перець болгарський, соєвий соус",
     },
 
     
