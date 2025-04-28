@@ -52,7 +52,7 @@ const ClasicMass=[
     {
         id:7,
         title:"Джин-тонік 250мл",
-        price:"145 грн",
+        price:"179 грн",
         src: require('../img/ton.webp'),
         text:"джин, тонік, лимон",
     },
