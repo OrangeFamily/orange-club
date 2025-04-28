@@ -23,7 +23,7 @@ const JagerMass=[
     {
         id:3,
         title:"Jager-Cherry 200мл",
-        price:"150 грн",
+        price:"160 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"Jägermeister, вишневий сік",
     },
