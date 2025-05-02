@@ -25,7 +25,6 @@ const ClasicMass=[
         title:"порнстар мартіні  200мл",
         price:"240 грн",
         src: require('../img/pornstart.png'),
-        isHot: true,
         text:`ванільна горілка, ванільний сироп, маракуйя, лайм, просекко`,
     },
     // {
