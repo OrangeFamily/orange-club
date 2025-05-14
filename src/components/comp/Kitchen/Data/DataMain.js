@@ -1,12 +1,12 @@
 const MainMass=[
-    {
-        id:1,
-        title:"Стейк з тунця 200г/50г",
-        isNew: true,
-        price:"350 грн",
-        src:require('../img/steyktun.png'),
-        text:"тунець, соус з авокадо",
-    },
+    // {
+    //     id:1,
+    //     title:"Стейк з тунця 200г/50г",
+    //     isNew: true,
+    //     price:"350 грн",
+    //     src:require('../img/steyktun.png'),
+    //     text:"тунець, соус з авокадо",
+    // },
 
 
 
