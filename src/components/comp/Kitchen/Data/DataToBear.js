@@ -13,6 +13,7 @@ const ToBearMass=[
         price:"210 грн",
         src: require('../img/kurSerd.png'),
         text:"Курячі серця, перець болгарський, шампіньйони, часник, петрушка, соєвий соус, лаваш",
+    isNew: true
     },
     {
         id:2,

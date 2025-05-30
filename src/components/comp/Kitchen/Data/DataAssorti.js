@@ -1,5 +1,13 @@
 const AssortiMass = [
   {
+    id: 8,
+    title: 'Оселедець з картоплею та цибулею 80/100/50',
+    price: '150 грн',
+    src: require('../img/oseledecKart.png'),
+    text: 'філе оселедця, картопля, маринована цибуля, кріп',
+    isNew: true
+  },
+  {
     id: 6,
     title: 'оливки 80г',
     price: '80 грн',
@@ -53,6 +61,7 @@ const AssortiMass = [
     price: '150 грн',
     src: require('../img/oseledecKart.png'),
     text: 'філе оселедця, картопля, маринована цибуля, кріп',
+    isNew: true
   },
 ];
 

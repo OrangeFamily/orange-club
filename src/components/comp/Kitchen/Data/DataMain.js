@@ -14,6 +14,7 @@ const MainMass = [
     price: '350 грн',
     src: require('../img/lososVershki.png'),
     text: 'філе лосося, помідори черрі,вершки, петрушка',
+    isNew: true
   },
   {
     id: 3,
@@ -21,6 +22,7 @@ const MainMass = [
     price: '215 грн',
     src: require('../img/svinOvochi.png'),
     text: 'ошийок свинний,шампіньйони,болгарський перець,спаржа',
+    isNew: true
   },
   {
     id: 4,
