@@ -8,18 +8,6 @@ const AssortiMass = [
     isNew: true
   },
   {
-    id: 6,
-    title: 'оливки 80г',
-    price: '80 грн',
-    src: require('../img/olivki.png'),
-  },
-  {
-    id: 7,
-    title: 'маслини 80г',
-    price: '80 грн',
-    src: require('../img/maslini.png'),
-  },
-  {
     id: 1,
     title: "м'ясна тарілка 200г",
     price: '330 грн',
@@ -56,12 +44,16 @@ const AssortiMass = [
     text: 'Апельсин, грейпфрут, виноград, ківі, груша, мараскінова вишня',
   },
   {
-    id: 8,
-    title: 'Оселедець з картоплею та цибулею 80/100/50',
-    price: '150 грн',
-    src: require('../img/oseledecKart.png'),
-    text: 'філе оселедця, картопля, маринована цибуля, кріп',
-    isNew: true
+    id: 6,
+    title: 'оливки 80г',
+    price: '80 грн',
+    src: require('../img/olivki.png'),
+  },
+  {
+    id: 7,
+    title: 'маслини 80г',
+    price: '80 грн',
+    src: require('../img/maslini.png'),
   },
 ];
 
