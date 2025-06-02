@@ -30,9 +30,9 @@ const VodkaMass=[
     {
         id:4,
         title:"Коскенкорва (Фінляндія) 0,5л",
-        price:"800 грн",
+        price:"900 грн",
         src: require('../img/kosk.png'),
-        text:"50мл - 80 грн",
+        text:"50мл - 90 грн",
     },
     //{
         //id:5,
@@ -58,9 +58,9 @@ const VodkaMass=[
     {
         id:8,
         title:"Горілка рада преміум (Україна) 0,7л",
-        price:"686 грн",
+        price:"770 грн",
         src: require('../img/rada.png'),
-        text:"50мл - 49 грн",
+        text:"50мл - 55 грн",
     },
 ]
 

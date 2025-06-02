@@ -44,14 +44,14 @@ const WiskeyMass=[
     {
         id:5,
         title:"Джек Деніелс Медовий (Теннессі) 1л",
-        price:"2600 грн",
+        price:"2800 грн",
         src: require('../img/jdh.webp'),
-        text:"50мл - 130 грн",
+        text:"50мл - 140 грн",
     },
     {
         id:6,
         title:"Джек Деніелс Медовий (Теннессі) 0,5л",
-        price:"1300 грн",
+        price:"1400 грн",
         src: require('../img/jdh.webp'),
         text:"",
     },
@@ -65,9 +65,9 @@ const WiskeyMass=[
     {
         id:7,
         title:"Джонні Уокер Ред Лейбл (Шотландія) 1л",
-        price:"1800 грн",
+        price:"2200 грн",
         src:require('../img/label.png'),
-        text:"50мл - 90 грн",
+        text:"50мл - 110 грн",
     },
     {
         id:10,

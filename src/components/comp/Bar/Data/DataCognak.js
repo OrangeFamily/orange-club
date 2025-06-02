@@ -37,16 +37,16 @@ const CognakMass=[
     {
         id:5,
         title:"Легенда Вірменії 4* (Грузія) 0,5л",
-        price:"750 грн",
+        price:"800 грн",
         src: require('../img/legenda.png'),
-        text:"50мл - 75 грн",
+        text:"50мл - 80 грн",
     },
     {
         id:6,
         title:"Метакса 5 Зірок (Греція) 0,5л",
-        price:"900 грн",
+        price:"1100 грн",
         src: require('../img/metaxa.png'),
-        text:"50мл - 90 грн",
+        text:"50мл - 110 грн",
     },
     {
         id:7,
