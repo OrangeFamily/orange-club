@@ -13,12 +13,13 @@ const LemonadMass=[
         src: require('../../../img/orangeLogo.png'),
         text:"лимонад, м’ята, 7up",
     },
-    {
-        id:3,
-        title:"Фруктовий 450мл",
-        price:"65 грн",
-        src: require('../../../img/orangeLogo.png'),
-        text:"лимонад, 7up, сироп в асортименті",
+    
+ {
+       id:3,
+       title:"манго маракуя 450мл",
+       price:"65 грн",
+       src: require('../../../img/orangeLogo.png'),
+       text:"лимонад, 7up, сироп в асортименті",
     },
 
 

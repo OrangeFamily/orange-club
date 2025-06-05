@@ -6,6 +6,16 @@ const ShotDrinkMass=[
     //     src: require('../img/kap.webp'),
     //     text:"самбука, вершковий лікер, текіла, сироп Блю Кюрасао",
     // },
+  {
+    id: 1,
+    title: 'Yumi',
+    price: '130 грн',
+    src: require('../img/Yumi.png'),
+    isNew: true,
+    text: `Лікер персик
+Сік апельсину 
+Ром золотий`,
+  },
     {
         id:2,
         title:"Never fake",
@@ -27,13 +37,13 @@ const ShotDrinkMass=[
         src: require('../img/Easyme.png'),
         text:"Лікер персику, сік апельсину , лікер апельсину",
     },
-    {
-        id:5,
-        title:"Бісквіт",
-        price:"140 грн",
-        src: require('../img/biskvit.png'),
-        text:"Лікер персику, Бейліс, золотий ром",
-    },
+    // {
+    //     id:5,
+    //     title:"Бісквіт",
+    //     price:"140 грн",
+    //     src: require('../img/biskvit.png'),
+    //     text:"Лікер персику, Бейліс, золотий ром",
+    // },
     {
         id:6,
         title:"Рідкий асфальт",
