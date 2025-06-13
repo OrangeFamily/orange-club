@@ -58,7 +58,7 @@ import ClasicMass from './comp/Cocotail/Data/DataClasic';
 import NonMass from './comp/Cocotail/Data/DataNon';
 import PartyMixMass from './comp/Cocotail/Data/DataPartyMix';
 import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
-// import CoronaMass from './comp/Cocotail/Data/DataCorona';
+import CoronaMass from './comp/Cocotail/Data/DataCorona';
 // import eger from './img/norm.jpg'
 // import egerakc from './img/akc.jpg'
 
@@ -109,7 +109,7 @@ export const App = () => {
   const dataClasic = ClasicMass;
   // const dataColdTea = ColdTeaMass;
   // const dataJager = JagerMass;
-  // const dataCorona = CoronaMass
+  const dataCorona = CoronaMass
   //const dataLemonad = LemonadMass;
   // const dataMixDrink = MixDrinkMass;
   const dataNon = NonMass;
@@ -551,6 +551,16 @@ export const App = () => {
                       </AccordionPanel>
                     </AccordionItem>
                     <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                          Corona cocktails
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataCorona} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                    <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           авторські коктейлі
@@ -599,17 +609,8 @@ export const App = () => {
                       <AccordionPanel>
                         <Coffe data={dataJager} onModal={dataModal} />
                       </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                        <h2>
-                          <AccordionButton className={s.titleItem}>
-                          Corona cocktails
-                          </AccordionButton>
-                        </h2>
-                        <AccordionPanel>
-                          <Coffe data={dataCorona} onModal={dataModal} />
-                        </AccordionPanel>
-                      </AccordionItem>*/}
+                    </AccordionItem>*/}
+                    
                    {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>

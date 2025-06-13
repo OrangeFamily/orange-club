@@ -7,6 +7,13 @@ const WiskeyMass=[
         text:"50мл - 285 грн",
     },
     {
+        id:10,
+        title:"Macallan 12Y.O Double Cask (Великобританія) 1л",
+        price:"8400 грн",
+        src: require('../img/macalan.png'),
+        text:"50мл - 420 грн",
+    },
+    {
         id:2,
         title:"Віскі чівас 12 років (Шотландія) 1л",
         price:"4200 грн",
