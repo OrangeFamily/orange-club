@@ -138,7 +138,7 @@ const ToBearMass=[
     },
     {
         id:19,
-        title:"Мисливські ковбаски 150г",
+        title:"Мисливські ковбаски 250г",
         price:"114 грн",
         src: require('../img/soeg.webp'),
         text:"ковбаски, зелень",
