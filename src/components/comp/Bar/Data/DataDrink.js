@@ -30,7 +30,7 @@ const DrinkMass=[
     {
         id:5,
         title:"Моршинська газ. 0,3 л",
-        price:"65 грн",
+        price:"70 грн",
         src: require('../img/morshs.webp'),
         text:"",
     },
@@ -44,14 +44,14 @@ const DrinkMass=[
     {
         id:7,
         title:"Боржомі 0,5л",
-        price:"95 грн",
+        price:"100 грн",
         src: require('../img/borj.webp'),
         text:"",
     },
     {
         id:8,
         title:"Пепсі скло",
-        price:"65 грн",
+        price:"70 грн",
         src: require('../img/pepsi.webp'),
         text:"",
     },

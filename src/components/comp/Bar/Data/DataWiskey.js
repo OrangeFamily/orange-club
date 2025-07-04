@@ -79,9 +79,9 @@ const WiskeyMass=[
     {
         id:10,
         title:"Джонні Уокер Блек Лейбл (Шотландія) 1л",
-        price:"3200 грн",
+        price:"3400 грн",
         src:require('../img/blacklabel.png'),
-        text:"50мл - 160 грн",
+        text:"50мл - 170 грн",
     },
     {
         id:8,
