@@ -1,4 +1,13 @@
 const WiskeyMass=[
+
+    
+    {
+        id:1,
+        title:"Ром Don Papa Maskara( Філіппіни) 0,7л",
+        price:"3080 грн",
+        src: require('../img/DonPapaMaskara.png'),
+        text:"50мл - 220 грн",
+    },
     {
         id:1,
         title:"Гленморанджі Оріджинал, 10 уо (Шотландія) 1л",
