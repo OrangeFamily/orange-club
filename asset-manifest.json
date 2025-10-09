@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-club/static/css/main.86c85c94.css",
-    "main.js": "/orange-club/static/js/main.568f76b5.js",
+    "main.js": "/orange-club/static/js/main.d4568a9a.js",
     "static/media/obrayen.png": "/orange-club/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/ovogril.png": "/orange-club/static/media/ovogril.c1e0068be92d82f8393d.png",
     "static/media/lososVershki.png": "/orange-club/static/media/lososVershki.e03aa5793fe3bc035dde.png",
@@ -84,6 +84,7 @@
     "static/media/vankaramel.png": "/orange-club/static/media/vankaramel.09ba6ce53268294cbf23.png",
     "static/media/perlina.png": "/orange-club/static/media/perlina.87f9ebab624f0fea6c83.png",
     "static/media/JaranaB.png": "/orange-club/static/media/JaranaB.7e7e873f70bee6fc593e.png",
+    "static/media/tonicsteklo.png": "/orange-club/static/media/tonicsteklo.0235e6840b6c66ee09ff.png",
     "static/media/perfect.png": "/orange-club/static/media/perfect.6b5339e174aa6e05debb.png",
     "static/media/koblevo.png": "/orange-club/static/media/koblevo.53154833b934e056b016.png",
     "static/media/singlton.png": "/orange-club/static/media/singlton.65bd45c5bd4c0a045070.png",
@@ -154,7 +155,6 @@
     "static/media/tiger.webp": "/orange-club/static/media/tiger.c4828640bf6f83de4f83.webp",
     "static/media/lemon.webp": "/orange-club/static/media/lemon.4a214cdf5749c07339ec.webp",
     "static/media/chikenpasta.webp": "/orange-club/static/media/chikenpasta.64e1aef9517c851271e0.webp",
-    "static/media/moh.webp": "/orange-club/static/media/moh.41a0f72eca95137e87bc.webp",
     "static/media/tigersal.webp": "/orange-club/static/media/tigersal.5e3aa286eac1f46c54ce.webp",
     "static/media/cezar.webp": "/orange-club/static/media/cezar.aad6b8cf7060267bea1d.webp",
     "static/media/manh.webp": "/orange-club/static/media/manh.6275dd03c657d6c42e39.webp",
@@ -239,10 +239,10 @@
     "static/media/campary.webp": "/orange-club/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-club/index.html",
     "main.86c85c94.css.map": "/orange-club/static/css/main.86c85c94.css.map",
-    "main.568f76b5.js.map": "/orange-club/static/js/main.568f76b5.js.map"
+    "main.d4568a9a.js.map": "/orange-club/static/js/main.d4568a9a.js.map"
   },
   "entrypoints": [
     "static/css/main.86c85c94.css",
-    "static/js/main.568f76b5.js"
+    "static/js/main.d4568a9a.js"
   ]
 }
