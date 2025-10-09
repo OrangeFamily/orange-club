@@ -30,9 +30,9 @@ const CognakMass=[
     {
         id:4,
         title:"Коблево Резерв 5* (Україна) 0,5л",
-        price:"600 грн",
+        price:"650 грн",
         src: require('../img/koblevo.png'),
-        text:"50мл - 60 грн",
+        text:"50мл - 65 грн",
     },
     {
         id:5,

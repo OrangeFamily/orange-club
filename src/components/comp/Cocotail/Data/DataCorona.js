@@ -2,7 +2,7 @@ const CoronaMass = [
   {
     id: 1,
     title: 'Pina corona 350мл',
-    price: '230 грн',
+    price: '250 грн',
     src: require('../img/pinaCorona.png'),
     text: `ром білий,
 сік ананасу, 
@@ -13,7 +13,7 @@ const CoronaMass = [
   {
     id: 2,
     title: 'Corona paloma 350мл',
-    price: '230 грн',
+    price: '250 грн',
     src: require('../img/Coronapaloma.png'),
     text: `Текіла,
 сік грейпфрута,
@@ -25,7 +25,7 @@ const CoronaMass = [
   {
     id: 3,
     title: 'Corona verde 350мл',
-    price: '230 грн',
+    price: '250 грн',
     src: require('../img/Coronaverde.png'),
     text: `Білий ром, 
 сироп агави,
@@ -36,7 +36,7 @@ const CoronaMass = [
   {
     id: 4,
     title: 'Corona passion 350мл',
-    price: '230 грн',
+    price: '250 грн',
     src: require('../img/Coronapassion.png'),
     text: `ром Д’Арк, 
 сироп маракуя, 

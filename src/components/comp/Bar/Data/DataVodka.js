@@ -51,9 +51,9 @@ const VodkaMass=[
     {
         id:7,
         title:"Перша Гільдія Поважна (Україна) 0,5л",
-        price:"450 грн",
+        price:"500 грн",
         src: require('../img/persha.png'),
-        text:"50мл - 45 грн",
+        text:"50мл - 50 грн",
     },
     {
         id:8,

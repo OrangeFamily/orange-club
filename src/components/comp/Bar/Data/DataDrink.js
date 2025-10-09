@@ -7,6 +7,13 @@ const DrinkMass=[
         text:"250 мл - 50 грн",
     },
     {
+        id:11,
+        title:"Тоник Schweppes 0,25 скло",
+        price:"70 грн",
+        src: require('../img/tonicsteklo.png'),
+        text:"",
+    },
+    {
         id:2,
         title:"Евервесс тонік  0.75 л",
         price:"110 грн",

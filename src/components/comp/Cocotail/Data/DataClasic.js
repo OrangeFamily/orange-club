@@ -2,14 +2,14 @@ const ClasicMass=[
     {
         id:1,
         title:"Беліні 150мл",
-        price:"180 грн",
+        price:"190 грн",
         src: require('../img/beli.webp'),
         text:"prosecco, пюре персикове",
     },
     {
         id:2,
         title:"Май Тай 450мл",
-        price:"230 грн",
+        price:"240 грн",
         src: require('../img/may.webp'),
         text:"ром чорний, ром золотий, лікер мигдальний, лікер апельсиновий, сік апельсиновий, ананасовий",
     },
@@ -26,17 +26,17 @@ const ClasicMass=[
         src: require('../img/pornstart.png'),
         text:`ванільна горілка, ванільний сироп, маракуйя, лайм, просекко`,
     },
-    {
-        id:4,
-        title:"Мохіто 350мл",
-        price:"180 грн",
-        src: require('../img/moh.webp'),
-        text:"ром, лайм, м’ята, цукор, 7up",
-    },
+    // {
+    //     id:4,
+    //     title:"Мохіто 350мл",
+    //     price:"190 грн",
+    //     src: require('../img/moh.webp'),
+    //     text:"ром, лайм, м’ята, цукор, 7up",
+    // },
     {
         id:5,
         title:"Куба Лібре 250мл",
-        price:"179 грн",
+        price:"185 грн",
         src: require('../img/cuba.webp'),
         text:"ром, лайм, пепсі",
     },
@@ -50,7 +50,7 @@ const ClasicMass=[
     {
         id:7,
         title:"Джин-тонік 250мл",
-        price:"189 грн",
+        price:"195 грн",
         src: require('../img/ton.webp'),
         text:"джин, тонік, лимон",
     },
@@ -99,7 +99,7 @@ const ClasicMass=[
     {
         id:13,
         title:"Віскі сауер 200мл",
-        price:"220 грн",
+        price:"230 грн",
         src: require('../img/sau.webp'),
         text:"Бурбон Буліт, лимонний фреш, ізі фом, цукровий сироп, лимонна цедра, ангостура",
     },
@@ -190,7 +190,7 @@ const ClasicMass=[
     {
         id:26,
         title:"Білий бармен 200мл",
-        price:"160 грн",
+        price:"180 грн",
         src: require('../img/belbar.webp'),
         text:"горілка, лікер кавовий, сироп ванільний, вершки",
     },
@@ -204,7 +204,7 @@ const ClasicMass=[
     {
         id:28,
         title:"бренді кола 250мл",
-        price:"120 грн",
+        price:"125 грн",
         src: require('../img/brendycoe.png'),
         text:"бренді коблево, пепсі",
     },
