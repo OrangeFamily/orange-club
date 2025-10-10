@@ -30,7 +30,7 @@ const DesertsMass=[
     {
         id:4,
         title:"морозиво 100г",
-        price:"114 грн",
+        price:"94 грн",
         src: require('../img/icee.webp'),
         text:"пломбір, полуничне, шоколадне",
     },

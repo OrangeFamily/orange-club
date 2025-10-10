@@ -11,7 +11,7 @@ const MainMass = [
   {
     id: 2,
     title: 'Лосось в вершковому соусі 250г',
-    price: '380 грн',
+    price: '355 грн',
     src: require('../img/lososVershki.png'),
     text: 'філе лосося, помідори черрі,вершки, петрушка',
     isNew: true
@@ -19,7 +19,7 @@ const MainMass = [
   {
     id: 3,
     title: 'Свинина з овочами 300г',
-    price: '245 грн',
+    price: '235 грн',
     src: require('../img/svinOvochi.png'),
     text: 'ошийок свинний,шампіньйони,болгарський перець,спаржа',
     isNew: true
@@ -34,7 +34,7 @@ const MainMass = [
   {
     id: 5,
     title: 'Тартар з лосося 250г',
-    price: '340 грн',
+    price: '330 грн',
     src: require('../img/tartartlosos.png'),
     text: 'Лосось, цибуля, лимон, авокадо, перець солодкий, соевий соус, оливкове масло, багет',
   },
@@ -48,14 +48,14 @@ const MainMass = [
   {
     id: 7,
     title: 'стейк з лосося 150г/50г',
-    price: '395 грн',
+    price: '365 грн',
     src: require('../img/steykred.webp'),
     text: 'лосось, лимон, соус тар-тар',
   },
   {
     id: 8,
     title: 'грільчик 200/150/50',
-    price: '315 грн',
+    price: '395 грн',
     src: require('../img/steykkur.png'),
     text: 'Філе куряче,шампіньйони,болгарський перець,спаржа , соус кисло-солодкий',
   },

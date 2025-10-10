@@ -2,7 +2,7 @@ const AssortiMass = [
   {
     id: 8,
     title: 'Оселедець з картоплею та цибулею 80/100/50',
-    price: '180 грн',
+    price: '160 грн',
     src: require('../img/oseledecKart.png'),
     text: 'філе оселедця, картопля, маринована цибуля, кріп',
     isNew: true
@@ -10,14 +10,14 @@ const AssortiMass = [
   {
     id: 1,
     title: "м'ясна тарілка 200г",
-    price: '360 грн',
+    price: '350 грн',
     src: require('../img/meattarelka.png'),
     text: 'Шинка, Ковбаса СК, бастурма, хамон',
   },
   {
     id: 2,
     title: 'тарілка під пиво 200г',
-    price: '320 грн',
+    price: '290 грн',
     src: require('../img/tarpidbear.png'),
     text: "курка в'ялена, хамон, бастурма, фісташки",
   },
@@ -32,27 +32,27 @@ const AssortiMass = [
   {
     id: 4,
     title: 'сирна тарілка 350г/50г',
-    price: '390 грн',
+    price: '370 грн',
     src: require('../img/tarelkachees.png'),
     text: 'гауда, пармезан, брі, дорблю, мед, виноград, груша',
   },
   {
     id: 5,
     title: 'фруктова тарілка 480г',
-    price: '280 грн',
+    price: '260 грн',
     src: require('../img/fruttar.webp'),
     text: 'Апельсин, виноград, ківі, груша, мараскінова вишня',
   },
   {
     id: 6,
     title: 'оливки 80г',
-    price: '110 грн',
+    price: '80 грн',
     src: require('../img/olivki.png'),
   },
   {
     id: 7,
     title: 'маслини 80г',
-    price: '110 грн',
+    price: '80 грн',
     src: require('../img/maslini.png'),
   },
 ];
