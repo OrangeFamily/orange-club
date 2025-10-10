@@ -15,9 +15,9 @@ const DrinkMass=[
     },
     {
         id:2,
-        title:"Евервесс тонік  0.75 л",
+        title:"Тоник Schweppes  0.75 л",
         price:"110 грн",
-        src: require('../img/tonic.webp'),
+        src: require('../img/tonicsteklo.png'),
         text:"",
     },
     {
