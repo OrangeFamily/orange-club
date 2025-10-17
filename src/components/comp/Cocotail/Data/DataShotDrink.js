@@ -7,14 +7,25 @@ const ShotDrinkMass = [
   //     text:"самбука, вершковий лікер, текіла, сироп Блю Кюрасао",
   // },
   {
+    id: 13,
+    title: 'Gold Oasis',
+    price: '140 грн',
+    src: require('../img/GoldOasis.png'),
+    isNew: true,
+    text: `Jägermeister orange, 
+Aperol,
+Сироп Маракуя`,
+ isNew: true,
+  },
+  {
     id: 1,
     title: 'Yumi',
     price: '140 грн',
     src: require('../img/Yumi.png'),
     isNew: true,
-    text: `Лікер персик
-Сік апельсину 
-Ром золотий`,
+    text: `Лікер персик,
+Сік апельсину, 
+Ром золотий,`,
   },
   {
     id: 2,

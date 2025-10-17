@@ -7,6 +7,7 @@ const AuthMass=[
         text:` Jägermeister  orange,
 Campari,
 Crème de casis`,
+ isNew: true,
     },
 {
         id:17,
@@ -16,6 +17,7 @@ Crème de casis`,
         text:`Jägermeister orange, 
 Тонік,
 Апельсин`,
+ isNew: true,
     },
 {
         id:18,
@@ -26,6 +28,7 @@ Crème de casis`,
 Crème de casis,
 Сік яблучний,
 7ап`,
+ isNew: true,
     },
 {
         id:19,
@@ -36,6 +39,7 @@ Crème de casis,
 Cointreau, 
 Апельсин, 
 7ап`,
+ isNew: true,
     },
 
     {
