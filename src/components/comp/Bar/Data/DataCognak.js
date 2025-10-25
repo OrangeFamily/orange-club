@@ -1,11 +1,11 @@
 const CognakMass=[
-    {
-        id:1,
-        title:"Реми Мартан VSOP (Франція) 1л",
-        price:"3700 грн",
-        src: require('../img/rmvsop.webp'),
-        text:"50мл - 185 грн",
-    },
+    // {
+    //     id:1,
+    //     title:"Реми Мартан VSOP (Франція) 1л",
+    //     price:"3700 грн",
+    //     src: require('../img/rmvsop.webp'),
+    //     text:"50мл - 185 грн",
+    // },
     // {
     //     id:2,
     //     title:"Старий Кахеті **** (Грузія) 0,5л",

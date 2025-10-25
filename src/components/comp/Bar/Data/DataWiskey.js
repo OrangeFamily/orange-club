@@ -1,13 +1,7 @@
 const WiskeyMass=[
 
     
-    {
-        id:1,
-        title:"Ром Don Papa Maskara( Філіппіни) 0,7л",
-        price:"3080 грн",
-        src: require('../img/DonPapaMaskara.png'),
-        text:"50мл - 220 грн",
-    },
+   
     {
         id:1,
         title:"Гленморанджі Оріджинал, 10 уо (Шотландія) 1л",
@@ -22,13 +16,13 @@ const WiskeyMass=[
         src: require('../img/macalan.png'),
         text:"50мл - 420 грн",
     },
-    {
-        id:2,
-        title:"Віскі чівас 12 років (Шотландія) 1л",
-        price:"4200 грн",
-        src: require('../img/chivas.png'),
-        text:"50мл - 210 грн",
-    },
+    // {
+    //     id:2,
+    //     title:"Віскі чівас 12 років (Шотландія) 1л",
+    //     price:"4200 грн",
+    //     src: require('../img/chivas.png'),
+    //     text:"50мл - 210 грн",
+    // },
     {
         id:3,
         title:"Белл'с Оріджинал (Шотландія) 1л",
