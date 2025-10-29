@@ -76,7 +76,7 @@ const ClasicMass=[
         text:"ром, кокосовий лікер, лікер Блю Кюрасао, ананасовий сік",
     },
     {
-        id:32,
+        id:38,
         title:"Бетон 250мл",
         price:"150 грн",
         src: require('../img/beton.png'),

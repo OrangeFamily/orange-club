@@ -13,13 +13,13 @@ const DesertsMass=[
     //     src: require('../img/tort.webp'),
     //     text:"",
     // },
-    {
-        id:2,
-        title:"Фірмовий чізкейк Оранж 150г",
-        price:"144 грн",
-        src: require('../img/chizcake.png'),
-        text:"",
-    },
+    // {
+    //     id:2,
+    //     title:"Фірмовий чізкейк Оранж 150г",
+    //     price:"144 грн",
+    //     src: require('../img/chizcake.png'),
+    //     text:"",
+    // },
     // {
     //     id:3,
     //     title:"вафлі з фруктами та морозивом 280г",
@@ -33,6 +33,7 @@ const DesertsMass=[
         price:"94 грн",
         src: require('../img/icee.webp'),
         text:"пломбір, полуничне, шоколадне",
+    allergy: `🥛 молоко, 🍫 какао`
     },
     
     

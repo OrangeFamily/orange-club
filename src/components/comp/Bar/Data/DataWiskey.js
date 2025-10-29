@@ -10,7 +10,7 @@ const WiskeyMass=[
         text:"50мл - 285 грн",
     },
     {
-        id:10,
+        id:18,
         title:"Macallan 12Y.O Double Cask (Великобританія) 1л",
         price:"8400 грн",
         src: require('../img/macalan.png'),
@@ -66,7 +66,7 @@ const WiskeyMass=[
         text:"",
     },
     {
-        id:6,
+        id:15,
         title:"Сінглтон оф Даффтаун 12 YO (Шотландія) 1л",
         price:"4700 грн",
         src:require('../img/singlton.png'),

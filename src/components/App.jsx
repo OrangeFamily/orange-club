@@ -116,9 +116,9 @@ export const App = () => {
   const dataPartyMzix = PartyMixMass;
   const dataShotDrink = ShotDrinkMass;
 
-  const dataModal = (title, price, text, src) => {
+  const dataModal = (title, price, text, src, allergy) => {
     toggleModal();
-    setObjectModal({ title, price, text, src });
+    setObjectModal({ title, price, text, src, allergy });
   };
   const toggleModal = () => {
     setShowModal(showModal => !showModal);

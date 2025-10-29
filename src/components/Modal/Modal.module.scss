@@ -19,9 +19,9 @@
   // background-image: url(./img/fon2.jpg);
   // background-size: contain;
   width: 600px;
-  height: 900px;
+  height: 600px;
   margin: auto;
-  margin-top: 100px;
+  margin-top: 140px;
   border-radius: 10px;
   padding: 40px;
   display: flex;
@@ -54,7 +54,7 @@
   margin-bottom: 10px;
   padding: 7px 0;
   text-transform: uppercase;
-  font-size: 50px;
+  font-size: 35px;
   @media (min-width: 320px) and (max-width: 480px) {
     font-size: 20px;
     width: 235px;
@@ -79,5 +79,39 @@
   }
 }
 .imgSize{
-  width: 100%;
+  width: 70%;
 }
+
+.actions { display: flex; gap: 8px; margin-top: 12px; }
+.btn {
+  padding: 8px 12px; border-radius: 10px; border: none; cursor: pointer;
+  background: #f47424; color: black; font-weight: 600;
+}
+.btnSecondary {
+  padding: 8px 12px; border-radius: 10px; border: 1px solid #ddd; cursor: pointer;
+  background: #fff; color: #111; font-weight: 500;
+}
+
+.innerBackdrop {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,0.2);
+  display: flex; align-items: center; justify-content: center;
+  z-index: 1100;
+}
+
+.smallModal {
+  position: relative;
+  background: #fff;
+  width: min(90vw, 250px);
+  padding: 16px 44px 16px 16px; /* місце під кнопку закриття */
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+}
+
+.closeSmall {
+  position: absolute; top: 8px; right: 8px;
+  width: 28px; height: 28px; border-radius: 50%;
+  border: none; background: #f2f2f2; cursor: pointer; font-size: 18px; line-height: 1;
+}
+
+.allergyText { margin: 0; color: #222; line-height: 1.5; }

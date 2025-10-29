@@ -3,7 +3,7 @@ const AdditivesMass=[
         id:1,
         title:"Моцарела 50г",
         price:"25 грн",
-        src: require('../img/123123.webp'),
+        src: require('../../../img/orangeLogo.png'),
         text:"",
     },
     {
@@ -41,6 +41,7 @@ const AdditivesMass=[
         src: require('../../../img/orangeLogo.png'),
         text:"",
     },
+    
 ]
 
 export default AdditivesMass;

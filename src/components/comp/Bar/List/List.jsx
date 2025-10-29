@@ -5,7 +5,7 @@ import s from './List.module.scss'
      
         <div
       key={e.id}
-      onClick={() => onModal(e.title, e.price, e.text, e.src)}
+      onClick={() => onModal(e.title, e.price, e.text, e.src, e.allergy)}
       className={s.item}
     >
       {/* <img src={e.src} alt="" className={s.sizeImg} /> */}
