@@ -1,4 +1,14 @@
 const ShotDrinkMass = [
+  {
+      id:1,
+      title:"Пухлина мозку",
+      price:"140 грн",
+      src: require('../img/cancerBrain.png'),
+      text:`Самбука, 
+Мартіні,
+Бейлис,
+Гренадін`,
+  },
   // {
   //     id:1,
   //     title:"План «Капкан»",
