@@ -8,6 +8,7 @@ const ShotDrinkMass = [
 Мартіні,
 Бейлис,
 Гренадін`,
+ isHalloween: true
   },
   // {
   //     id:1,

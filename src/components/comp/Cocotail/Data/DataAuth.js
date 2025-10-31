@@ -9,6 +9,7 @@ const AuthMass=[
 сироп малина,
 сік лимона`,
  isNew: true,
+ isHalloween: true
     },
     {
         id:2,
@@ -20,6 +21,7 @@ const AuthMass=[
 Лікер Амарето,
 Вершки`,
  isNew: true,
+ isHalloween: true
     },
     {
         id:3,
@@ -31,6 +33,7 @@ const AuthMass=[
 Сік яблока,
 Гренадин`,
  isNew: true,
+ isHalloween: true
     },
     {
         id:4,

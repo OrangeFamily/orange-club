@@ -10,6 +10,7 @@ const ClasicMass=[
 Сіль,
 Перець,
 Вустерський соус`,
+ isHalloween: true
     },
     {
         id:2,
