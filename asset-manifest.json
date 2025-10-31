@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-club/static/css/main.095a524e.css",
-    "main.js": "/orange-club/static/js/main.02755947.js",
+    "main.js": "/orange-club/static/js/main.10c5fb14.js",
     "static/media/obrayen.png": "/orange-club/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/ovogril.png": "/orange-club/static/media/ovogril.c1e0068be92d82f8393d.png",
     "static/media/lososVershki.png": "/orange-club/static/media/lososVershki.e03aa5793fe3bc035dde.png",
@@ -69,6 +69,7 @@
     "static/media/juicesun.png": "/orange-club/static/media/juicesun.34a4dfbe65b76ef19549.png",
     "static/media/vikr.png": "/orange-club/static/media/vikr.fdb81bdb640ed2ff285a.png",
     "static/media/margo.png": "/orange-club/static/media/margo.9a4b143c82a9a0cd7e2c.png",
+    "static/media/Darkdays.png": "/orange-club/static/media/Darkdays.d03331f07f845ac10f44.png",
     "static/media/kmgbs.png": "/orange-club/static/media/kmgbs.cfc64613fce0c36c7a90.png",
     "static/media/JaranaR.png": "/orange-club/static/media/JaranaR.6379a6380a15c02be276.png",
     "static/media/chinazez.png": "/orange-club/static/media/chinazez.edd4f19aec36013294d3.png",
@@ -83,9 +84,11 @@
     "static/media/coronaba.png": "/orange-club/static/media/coronaba.f288afa43ee8ef192846.png",
     "static/media/Tanqueray.png": "/orange-club/static/media/Tanqueray.26d465186a9680c4f03d.png",
     "static/media/henessi.png": "/orange-club/static/media/henessi.79933514bd6c60ae4c5c.png",
+    "static/media/Creamypumpkin.png": "/orange-club/static/media/Creamypumpkin.529711c0d629e3a9ab0b.png",
     "static/media/kosk.png": "/orange-club/static/media/kosk.18fcbbfd3433dd3ab673.png",
     "static/media/vankaramel.png": "/orange-club/static/media/vankaramel.09ba6ce53268294cbf23.png",
     "static/media/perlina.png": "/orange-club/static/media/perlina.87f9ebab624f0fea6c83.png",
+    "static/media/BloodyMary.png": "/orange-club/static/media/BloodyMary.adcb6f453018750e31b4.png",
     "static/media/JaranaB.png": "/orange-club/static/media/JaranaB.7e7e873f70bee6fc593e.png",
     "static/media/tonicsteklo.png": "/orange-club/static/media/tonicsteklo.0235e6840b6c66ee09ff.png",
     "static/media/perfect.png": "/orange-club/static/media/perfect.6b5339e174aa6e05debb.png",
@@ -101,6 +104,7 @@
     "static/media/summerkiss.png": "/orange-club/static/media/summerkiss.d6417429632375b81e9e.png",
     "static/media/inst.png": "/orange-club/static/media/inst.da61275da83501aa7a6f.png",
     "static/media/label.png": "/orange-club/static/media/label.21a50603606c921107dc.png",
+    "static/media/blacked.png": "/orange-club/static/media/blacked.8a857467b3e82a2fa836.png",
     "static/media/sterling.png": "/orange-club/static/media/sterling.ed1288f6323521193743.png",
     "static/media/simba.png": "/orange-club/static/media/simba.10af2006a92abfe1ad29.png",
     "static/media/persha.png": "/orange-club/static/media/persha.af96eb9c832cb34aa081.png",
@@ -108,6 +112,8 @@
     "static/media/ginorange.png": "/orange-club/static/media/ginorange.e3d80283e4b7e32740ec.png",
     "static/media/Yumi.png": "/orange-club/static/media/Yumi.7d6d38159fee767de19d.png",
     "static/media/Easyme.png": "/orange-club/static/media/Easyme.8c005340fd369010e68f.png",
+    "static/media/cancerBrain.png": "/orange-club/static/media/cancerBrain.d8a637fc1099459b20f1.png",
+    "static/media/ardbeg.png": "/orange-club/static/media/ardbeg.86f5309ad45fd82d83ff.png",
     "static/media/mangor.png": "/orange-club/static/media/mangor.ca1568c842a524d4d3f4.png",
     "static/media/macalan.png": "/orange-club/static/media/macalan.8c54ea914e5e01bed550.png",
     "static/media/pussykiss.png": "/orange-club/static/media/pussykiss.9244ed4cdd1b9d11b2f8.png",
@@ -241,10 +247,10 @@
     "static/media/campary.webp": "/orange-club/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-club/index.html",
     "main.095a524e.css.map": "/orange-club/static/css/main.095a524e.css.map",
-    "main.02755947.js.map": "/orange-club/static/js/main.02755947.js.map"
+    "main.10c5fb14.js.map": "/orange-club/static/js/main.10c5fb14.js.map"
   },
   "entrypoints": [
     "static/css/main.095a524e.css",
-    "static/js/main.02755947.js"
+    "static/js/main.10c5fb14.js"
   ]
 }
