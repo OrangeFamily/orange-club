@@ -1,16 +1,16 @@
 const AuthMass=[
-    {
-        id:1,
-        title:"blacked 200мл",
-        price:"190 грн",
-        src: require('../img/blacked.png'),
-        text:` джин,
-Лікер смородина,
-сироп малина,
-сік лимона`,
- isNew: true,
- isHalloween: true
-    },
+//     {
+//         id:1,
+//         title:"blacked 200мл",
+//         price:"190 грн",
+//         src: require('../img/blacked.png'),
+//         text:` джин,
+// Лікер смородина,
+// сироп малина,
+// сік лимона`,
+//  isNew: true,
+//  isHalloween: true
+//     },
     {
         id:2,
         title:"Creamy pumpkin 250мл",
@@ -21,20 +21,20 @@ const AuthMass=[
 Лікер Амарето,
 Вершки`,
  isNew: true,
- isHalloween: true
+//  isHalloween: true
     },
-    {
-        id:3,
-        title:"Dark days 350мл",
-        price:"200 грн",
-        src: require('../img/Darkdays.png'),
-        text:` Золотий ром,
-Лікер дині,
-Сік яблока,
-Гренадин`,
- isNew: true,
- isHalloween: true
-    },
+//     {
+//         id:3,
+//         title:"Dark days 350мл",
+//         price:"200 грн",
+//         src: require('../img/Darkdays.png'),
+//         text:` Золотий ром,
+// Лікер дині,
+// Сік яблока,
+// Гренадин`,
+//  isNew: true,
+//  isHalloween: true
+//     },
     {
         id:4,
         title:"Oranjini 250мл",
@@ -58,7 +58,7 @@ Crème de casis`,
 {
         id:6,
         title:"Portokali 250мл",
-        price:"210 грн",
+        price:"245 грн",
         src: require('../img/Portokali.png'),
         text:`Jägermeister orange, 
 Crème de casis,

@@ -8,7 +8,7 @@ const ShotDrinkMass = [
 Мартіні,
 Бейлис,
 Гренадін`,
- isHalloween: true
+//  isHalloween: true
   },
   // {
   //     id:1,
@@ -20,12 +20,13 @@ const ShotDrinkMass = [
   {
     id: 2,
     title: 'Gold Oasis',
-    price: '140 грн',
+    price: '150 грн',
     src: require('../img/GoldOasis.png'),
-    isNew: true,
+   
     text: `Jägermeister orange, 
 Aperol,
 Сироп Маракуя`,
+ isNew: true,
   },
   {
     id: 3,

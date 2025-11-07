@@ -1,5 +1,79 @@
-const BearMass=[
-     {
+const BearMass = [
+  // {
+  //   id: 1,
+  //   title: 'Чернігівське Світле (Україна) кегове',
+  //   price: '0,5л - 69 грн',
+  //   price2: '0,33л - 55 грн',
+  //   src: require('../img/chernsvitle.png'),
+  //   text: '',
+  // },
+  // {
+  //   id: 2,
+  //   title: 'Чернігівське Біле (Україна) кегове',
+  //   price: '0,5л - 80 грн',
+  //   price2: '0,33л - 65 грн',
+  //   src: require('../img/beloe.png'),
+  //   text: '',
+  // },
+  // {
+  //   id: 3,
+  //   title: 'Чернігівське Біла Ніч (Україна) кегове',
+  //   price: '0,5л - 75 грн',
+  //   price2: '0,33л - 60 грн',
+  //   src: require('../img/bilanich.png'),
+  //   text: '',
+  // },
+  
+  
+//   {
+//     id:4,
+//     title:"Сидр Somersby Чорничний (Україна) кег.",
+//     price:"0,5л - 79 грн",
+//     price2:"0,33л - 65 грн",
+//     src: require('../img/somers.png'),
+//     text:"",
+// },
+  // {
+  //     id:4,
+  //     title:"Повна діжка (Україна) кегове",
+  //     price:"0,5л - 80 грн",
+  //     price2:"0,33л - 65 грн",
+  //     src: require('../img/dizhka.png'),
+  //     text:"",
+  // },
+  // {
+  //     id:5,
+  //     title:"Хмелевус вайс (Україна) кегове",
+  //     price:"0,5л - 65 грн",
+  //     price2:"0,33л - 50 грн",
+  //     src: require('../img/hmelevus.png'),
+  //     text:"",
+  // },
+  // {
+  //   id: 6,
+  //   title: 'Стелла артуа (Бельгія) кегове',
+  //   price: '0,5л - 95 грн',
+  //   price2: '0,33л - 70 грн',
+  //   src: require('../img/stelakeg.png'),
+  //   text: '',
+  // },
+  //{
+    //id: 7,
+    //title: 'Dunkel темне (Україна) кегове',
+    //price: '0,5л - 65 грн',
+    //price2: '0,33л - 50 грн',
+    //src: require('../img/dunkel.webp'),
+    //text: '',
+  //},
+  // {
+  //     id:8,
+  //     title:"Carlsberg (Данія) кегове",
+  //     price:"0,5л - 69 грн",
+  //     price2:"0,33л - 55 грн",
+  //     src: require('../img/carl.webp'),
+  //     text:"",
+  // },
+  {
     id: 9,
     title: 'Corona Extra (Mexico) пляшкове 0,355',
     price: '140 грн',
@@ -30,11 +104,10 @@ const BearMass=[
   {
     id: 12,
     title: 'Стелла артуа (Бельгія)(Б/А) пляшкове 0,33',
-    price: '85 грн',
+    price: '90 грн',
     src: require('../img/stellagb.png'),
     text: '',
   },
-    
-]
+];
 
 export default BearMass;
