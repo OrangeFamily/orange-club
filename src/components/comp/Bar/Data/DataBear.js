@@ -10,7 +10,7 @@ const BearMass = [
   // {
   //   id: 2,
   //   title: 'Чернігівське Біле (Україна) кегове',
-  //   price: '0,5л - 80 грн',
+  //   price: '0,5л - 85 грн',
   //   price2: '0,33л - 65 грн',
   //   src: require('../img/beloe.png'),
   //   text: '',
@@ -97,7 +97,7 @@ const BearMass = [
   {
     id: 11,
     title: 'Hoegaarden (Бельгія) пляшкове 0,33',
-    price: '130 грн',
+    price: '150 грн',
     src: require('../img/hoegarden.webp'),
     text: '',
   },

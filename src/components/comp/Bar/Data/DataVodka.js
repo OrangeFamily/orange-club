@@ -23,16 +23,16 @@ const VodkaMass=[
     {
         id:9,
         title:"Горілка Стерлінг (Шотландія) 1л",
-        price:"1500 грн",
+        price:"1600 грн",
         src: require('../img/sterling.png'),
-        text:"50мл - 75 грн",
+        text:"50мл - 80 грн",
     },
     {
         id:4,
         title:"Коскенкорва (Фінляндія) 0,5л",
-        price:"900 грн",
+        price:"950 грн",
         src: require('../img/kosk.png'),
-        text:"50мл - 90 грн",
+        text:"50мл - 95 грн",
     },
     //{
         //id:5,
@@ -58,9 +58,9 @@ const VodkaMass=[
     {
         id:8,
         title:"Горілка рада преміум (Україна) 0,7л",
-        price:"770 грн",
+        price:"854 грн",
         src: require('../img/rada.png'),
-        text:"50мл - 55 грн",
+        text:"50мл - 61 грн",
     },
 ]
 
