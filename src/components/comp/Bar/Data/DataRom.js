@@ -2,16 +2,16 @@ const RomMass=[
      {
         id:1,
         title:"Ром Don Papa Maskara( Філіппіни) 0,7л",
-        price:"3080 грн",
+        price:"3220 грн",
         src: require('../img/DonPapaMaskara.png'),
-        text:"50мл - 220 грн",
+        text:"50мл - 230 грн",
     },
     {
         id:2,
         title:"Кептен Морган Оріджинал Спайсед Голд (Пуерто-Ріко) 1л",
-        price:"2100 грн",
+        price:"2200 грн",
         src: require('../img/kmg.webp'),
-        text:"50мл - 105 грн",
+        text:"50мл - 110 грн",
     },
     {
         id:3,
@@ -30,16 +30,16 @@ const RomMass=[
     {
         id:5,
         title:"Кептен Морган Дарк (Ямайка) 1л",
-        price:"2200 грн",
+        price:"2400 грн",
         src: require('../img/kmd.webp'),
-        text:"50мл - 110 грн",
+        text:"50мл - 120 грн",
     },
     {
         id:6,
         title:"Кептен Морган Блек Спайсед (Ямайка) 1л",
-        price:"2800 грн",
+        price:"3000 грн",
         src: require('../img/kmgbs.png'),
-        text:"50мл - 140 грн",
+        text:"50мл - 150 грн",
     },
     
     

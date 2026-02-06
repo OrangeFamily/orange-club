@@ -2,14 +2,14 @@ const ShotMass=[
     {
         id:1,
         title:"Jägermeister (Німеччина) 1л",
-        price:"2200 грн",
+        price:"2400 грн",
         src: require('../img/jager.webp'),
-        text:"50мл - 110 грн",
+        text:"50мл - 120 грн",
     },
     {
         id:2,
         title:"Jägermeister (Німеччина) 0,5л",
-        price:"1100 грн",
+        price:"1300 грн",
         src: require('../img/jager.webp'),
         text:"",
     },

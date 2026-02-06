@@ -30,9 +30,9 @@ const VodkaMass=[
     {
         id:4,
         title:"Коскенкорва (Фінляндія) 0,5л",
-        price:"950 грн",
+        price:"1000 грн",
         src: require('../img/kosk.png'),
-        text:"50мл - 95 грн",
+        text:"50мл - 100 грн",
     },
     //{
         //id:5,
@@ -51,16 +51,16 @@ const VodkaMass=[
     {
         id:7,
         title:"Перша Гільдія Поважна (Україна) 0,5л",
-        price:"500 грн",
+        price:"550 грн",
         src: require('../img/persha.png'),
-        text:"50мл - 50 грн",
+        text:"50мл - 55 грн",
     },
     {
         id:8,
         title:"Горілка рада преміум (Україна) 0,7л",
-        price:"854 грн",
+        price:"924 грн",
         src: require('../img/rada.png'),
-        text:"50мл - 61 грн",
+        text:"50мл - 66 грн",
     },
 ]
 

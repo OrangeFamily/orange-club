@@ -96,9 +96,9 @@ const WiskeyMass=[
     {
         id:13,
         title:"Бурбон Буліт (США) 0,7л",
-        price:"2310 грн",
+        price:"2450 грн",
         src:require('../img/bulit.png'),
-        text:"50мл - 165 грн",
+        text:"50мл - 175 грн",
     },
     {
         id:14,
