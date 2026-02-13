@@ -34,6 +34,7 @@ import VermutMass from './comp/Bar/Data/DataVermut';
 import BearMass from './comp/Bar/Data/DataBear';
 // import CoffeMass from './comp/Bar/Data/DataCoffe';
 // import TeaMass from './comp/Bar/Data/DataTea';
+import CoctValent from './comp/Cocotail/Data/CoctValent';
 import DrinkMass from './comp/Bar/Data/DataDrink';
 import EnergyMass from './comp/Bar/Data/DataEnergy';
 import AddMass from './comp/Bar/Data/DataAdd';
@@ -59,6 +60,7 @@ import NonMass from './comp/Cocotail/Data/DataNon';
 import PartyMixMass from './comp/Cocotail/Data/DataPartyMix';
 import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
 import CoronaMass from './comp/Cocotail/Data/DataCorona';
+import ValentineHearts from './ValentineHearts';
 // import eger from './img/norm.jpg'
 // import egerakc from './img/akc.jpg'
 
@@ -83,7 +85,7 @@ export const App = () => {
   // const dataPizza = PizzaMass;
   const dataKitAdd = AdditivesMass;
   const dataDeserts = DesertsMass;
-
+const dataValent = CoctValent;
   // const dataNarCoct = NarCoctMass;
   const dataAperetiv = AperetivMass;
   const dataRom = RomMass;
@@ -125,6 +127,7 @@ export const App = () => {
   };
   return (
     <>
+    <ValentineHearts count={10} />
       <div className={s.upper}>
         <header className={s.header}>
           <a
@@ -540,6 +543,16 @@ export const App = () => {
                 </h1>
                 <AccordionPanel>
                   <Accordion allowMultiple>
+                  <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            коктель вечора
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataValent} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
