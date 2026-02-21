@@ -102,6 +102,13 @@ const BearMass = [
     text: '',
   },
   {
+    id: 13,
+    title: 'Velkopopovitsky Kozel темне (Чехія) пляшкове 0,45',
+    price: '100 грн',
+    // src: require('../img/hoegarden.webp'),
+    text: '',
+  },
+  {
     id: 12,
     title: 'Стелла артуа (Бельгія)(Б/А) пляшкове 0,33',
     price: '90 грн',
