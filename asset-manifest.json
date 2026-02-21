@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-club/static/css/main.c8a4b325.css",
-    "main.js": "/orange-club/static/js/main.118681e0.js",
+    "main.js": "/orange-club/static/js/main.48eab3ea.js",
     "static/media/obrayen.png": "/orange-club/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/ovogril.png": "/orange-club/static/media/ovogril.c1e0068be92d82f8393d.png",
     "static/media/lososVershki.png": "/orange-club/static/media/lososVershki.e03aa5793fe3bc035dde.png",
@@ -39,7 +39,6 @@
     "static/media/fiesta.png": "/orange-club/static/media/fiesta.bd89d87b9943cfdc0f5e.png",
     "static/media/fiat.png": "/orange-club/static/media/fiat.c893d9a46fb81dace121.png",
     "static/media/brendycoe.png": "/orange-club/static/media/brendycoe.6b92b11d78c0173e3054.png",
-    "static/media/dislike.png": "/orange-club/static/media/dislike.c206908a85fc7a7edeab.png",
     "static/media/beton.png": "/orange-club/static/media/beton.a780af17e2c0ed2bed3b.png",
     "static/media/halloween.png": "/orange-club/static/media/halloween.f394271a9c870f83c00d.png",
     "static/media/Portokali.png": "/orange-club/static/media/Portokali.d7b5918b8fa5bc0b05f7.png",
@@ -247,10 +246,10 @@
     "static/media/campary.webp": "/orange-club/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-club/index.html",
     "main.c8a4b325.css.map": "/orange-club/static/css/main.c8a4b325.css.map",
-    "main.118681e0.js.map": "/orange-club/static/js/main.118681e0.js.map"
+    "main.48eab3ea.js.map": "/orange-club/static/js/main.48eab3ea.js.map"
   },
   "entrypoints": [
     "static/css/main.c8a4b325.css",
-    "static/js/main.118681e0.js"
+    "static/js/main.48eab3ea.js"
   ]
 }
