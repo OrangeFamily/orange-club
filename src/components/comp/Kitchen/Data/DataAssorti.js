@@ -27,7 +27,7 @@ const AssortiMass = [
   {
     id: 4,
     title: 'дошка під горілку 150/30/30',
-    price: '260 грн',
+    price: '280 грн',
     src: require('../img/tovodka.png'),
     text: 'сало, підчеревок, корнішони, гірчиця, хрін, хліб бородинський, цибуля',
     allergy: `🌶️ гірчиця (соус), 🌾 глютен (бородинський хліб)`
@@ -51,13 +51,13 @@ const AssortiMass = [
   {
     id: 7,
     title: 'оливки 80г',
-    price: '80 грн',
+    price: '100 грн',
     src: require('../img/olivki.png'),
   },
   {
     id: 8,
     title: 'маслини 80г',
-    price: '80 грн',
+    price: '100 грн',
     src: require('../img/maslini.png'),
   },
 ];

@@ -27,7 +27,7 @@ const ToBearMass=[
     {
         id:4,
         title:"фісташки 50г",
-        price:"90 грн",
+        price:"100",
         src: require('../img/fist.png'),
         text:"",
     allergy: `🌰 горіхи`
@@ -118,7 +118,7 @@ const ToBearMass=[
     {
         id:16,
         title:"Печериці фрі 180г/50г",
-        price:"140 грн",
+        price:"150 грн",
         src: require('../img/mush.webp'),
         text:"печериці в паніровці, тар-тар",
     allergy: `🍄‍🟫гриби, 🌾глютен (паніровка), 🥚яйце`
@@ -189,7 +189,7 @@ const ToBearMass=[
     {
         id:25,
         title:"дошка під пиво 1000г/150г",
-        price:"500 грн",
+        price:"550 грн",
         src: require('../img/doskapodpivo.png'),
         text:"Orange chips, мюнхенські сухарики, печериці фрі, цибулеві кільця, картопля фрі, соус тартар, часниковий та кетчуп",
     allergy: `🌾 глютен (сухарики, паніровка, лаваш), 🥛 молоко (сир), 🥚 яйце,🍄‍🟫 гриби,🌶️гірчиця`
